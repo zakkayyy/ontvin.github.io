@@ -1,0 +1,27 @@
+<!-- secondpage.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detailed texts</title>
+
+    <link rel="stylesheet" href="detailed_style.css">
+
+    <script type="text/javascript" src="PapaParse-5.0.2/papaparse.min.js"></script>
+
+</head>
+<body>
+    <h1 id="second-page-header">Detailed text page</h1>
+    <p id="long-results-paragraph">This is some content on the second page.</p>
+
+
+    <script>
+        const buildingMainText = localStorage.getItem("buildingMainText");
+        const longResultsParagraph = document.getElementById("long-results-paragraph");
+
+        longResultsParagraph.innerHTML = buildingMainText;
+    </script>
+</body>
+</html>
+

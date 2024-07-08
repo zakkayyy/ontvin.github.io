@@ -1,0 +1,437 @@
+﻿map,vaccine,pregnant,age,length,text,mainTextID
+7,YF1,FALSE,adult,null,"Gelbfieber kommt in Ihrem Reisegebiet vor. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung wird auf 1 von Tausend  
+Desweiteren wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.",null
+7,YF2,FALSE,adult,null,"Gelbfieber kann in Ihrem Reisegebiet vorkommen. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung ist jedoch je nach der bereisten Gegend sehr unterschiedlich. Wenn Sie in ein auf der Karte rot markierte Gegend reisen, sollten Sie sich unbedingt impfen lassen - hier kann das Erkrankungsrisiko bis 1/1000 pro Monat hoch sein. Ansonsten ist eine Impfung nicht unbedingt notwendig.  
+Desweiteren wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  Eine sorgfältige Nutzen-Risiko-Abwägung muss bei Schwangeren, Stillenden, Säuglingen (6-9 Monate), sowie Menschen über 60 erfolgen. ",null
+7,YF3,FALSE,adult,null,"Gelbfieber kann in Ihrem Reisegebiet vorkommen. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung ist jedoch gering, so dass eine Impfung zum Eigenschutz nicht unbedingt notwendig ist - und vor allem, wenn schwerwiegende Vorerkrankungen oder hohes Alter oder sonstige Impfrisiken bestehen, nicht durchgeführt werden sollte.  
+Allerdings wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Wenn Sie jedoch auch nach Sansibar reisen wollen, werden Sie höchstwahrscheinlich die Impfung bei der dortigen Einreise nachweisen müssen.
+ 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  Eine sorgfältige Nutzen-Risiko-Abwägung muss bei Schwangeren, Stillenden, Säuglingen (6-9 Monate), sowie Menschen über 60 erfolgen. ",null
+8,YF4,FALSE,adult,null,"Gelbfieber kann in Ihrem Reisegebiet vorkommen. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung wird auf bis zu 1 von Zehntausend pro Reisemonat geschätzt. In einigen Gegenden kommt es aber auch nicht oder kaum vor (siehe Karte).
+Wenn Sie in eines der roten Gebiete reisen, dann sollten Sie sich unbedingt zu Ihrem eigenen Schutz impfen lassen.
+Desweiteren wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  Eine sorgfältige Nutzen-Risiko-Abwägung muss bei Schwangeren, Stillenden, Säuglingen (6-9 Monate), sowie Menschen über 60 erfolgen. ",null
+7,YF1,FALSE,senior,null,"Gelbfieber kommt in Ihrem Reisegebiet vor. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung wird auf 1 von Tausend pro Reisemonat geschätzt. Sie sollten sich also unbedingt zu Ihrem eigenen Schutz impfen lassen.
+Desweiteren wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  
+Da seltene, aber schwerwiegende Nebenwirkungen, teilweise mit Todesfolge, häufiger bei Menschen vorkommen, die im Alter von >60 Jahren erstmalig geimpft werden, besteht hier eine sogenannte relative Kontraindikation. Da Sie in ein Gebiet mit hohem Infektionsrisiko reisen sollten Sie sich dennoch impfen lassen. Wenn Sie Erkrankungen haben (zB. Herz-, Nieren-, Leberschwäche oder andere) sollten Sie sich unbedingt persönlich beraten lassen. ",null
+7,YF2,FALSE,senior,null,"Gelbfieber kann in Ihrem Reisegebiet vorkommen. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung ist jedoch je nach der bereisten Gegend sehr unterschiedlich. Wenn Sie in ein auf der Karte rot markierte Gegend reisen, sollten Sie sich unbedingt impfen lassen - hier kann das Erkrankungsrisiko bis 1/1000 pro Monat hoch sein. Ansonsten ist eine Impfung nicht unbedingt notwendig.  
+Desweiteren wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  
+Da seltene, aber schwerwiegende Nebenwirkungen, teilweise mit Todesfolge, häufiger bei Menschen vorkommen, die im Alter von >60 Jahren erstmalig geimpft werden, besteht hier eine sogenannte relative Kontraindikation. Wenn Sie in ein Gebiet mit niedrigem Infektionsrisiko reisen, ist eine Impfung nicht unbedingt ratsam. Sie sollten sich persönlich beraten lassen. Wenn Sie jedoch in ein Gebiet mit hohem Infektionsrisiko reisen, sollten Sie sich impfen lassen. Dies gilt aus administrativen Gründen, auch wenn Sie Landesgrenzen überqueren. Wenn Sie Erkrankungen haben (zB Herz-, Nieren-, Leberschwäche oder andere) sollten Sie sich unbedingt persönlich beraten lassen. ",null
+7,YF3,FALSE,senior,null,"Gelbfieber kann in Ihrem Reisegebiet vorkommen. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung ist jedoch gering, so dass eine Impfung zum Eigenschutz nicht unbedingt notwendig ist - und vor allem, wenn schwerwiegende Vorerkrankungen oder hohes Alter oder sonstige Impfrisiken bestehen, nicht durchgeführt werden sollte.  
+Allerdings wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Wenn Sie jedoch auch nach Sansibar reisen wollen werden Sie höchstwahrscheinlich die Impfung bei der dortigen Einreise nachweisen müssen.
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  
+Da seltene, aber schwerwiegende Nebenwirkungen, teilweise mit Todesfolge, häufiger bei Menschen vorkommen, die im Alter von >60 Jahren erstmalig geimpft werden, besteht hier eine sogenannte relative Kontraindikation. Da Sie in ein Gebiet mit sehr niedrigem Infektionsrisiko reisen, ist eine Impfung nicht wirklich notwendig. Wenn Sie ansonsten gesund sind und Sie nach Sansibar wollen, sollten Sie sich impfen lassen. ",null
+8,YF4,FALSE,senior,null,"Gelbfieber kann in Ihrem Reisegebiet vorkommen. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung wird auf bis zu 1 von Zehntausend pro Reisemonat geschätzt. In einigen Gegenden kommt es aber auch nicht oder kaum vor (siehe Karte).
+Wenn Sie in eines der roten Gebiete reisen, dann sollten Sie sich unbedingt zu Ihrem eigenen Schutz impfen lassen.
+Desweiteren wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  
+Da seltene, aber schwerwiegende Nebenwirkungen, teilweise mit Todesfolge, häufiger bei Menschen vorkommen, die im Alter von >60 Jahren erstmalig geimpft werden, besteht hier eine sogenannte relative Kontraindikation. Wenn Sie in ein Gebiet mit niedrigem Infektionsrisiko reisen, ist eine Impfung nicht unbedingt ratsam. Sie sollten sich persönlich beraten lassen. Wenn Sie jedoch in ein Gebiet mit hohem Infektionsrisiko reisen, sollten Sie sich impfen lassen. Dies gilt aus administrativen Gründen, auch wenn Sie Landesgrenzen überqueren. Wenn Sie Erkrankungen haben (zB Herz-, Nieren-, Leberschwäche oder andere) sollten Sie sich unbedingt persönlich beraten lassen. ",null
+7,YF1,FALSE,child,null,"Gelbfieber kommt in Ihrem Reisegebiet vor. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung wird auf 1 von Tausend pro Reisemonat geschätzt. Sie sollten sich also unbedingt zu Ihrem eigenen Schutz impfen lassen.
+Desweiteren wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.
+Kinder können erst ab einem Alter von frühestens 6 Monaten geimpft werden, obwohl man lieber bis zum 9ten Lebensmonat wartet. Da Sie in ein Gebiet mit hohem Risiko reisen, würde ich die Impfung schon ab dem 6ten Monat empfehlen - wenn die Reise wirklich zum jetzigen Zeitpunkt stattfinden muss. ",null
+7,YF2,FALSE,child,null,"Gelbfieber kann in Ihrem Reisegebiet vorkommen. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung ist jedoch je nach der bereisten Gegend sehr unterschiedlich. Wenn Sie in ein auf der Karte rot markierte Gegend reisen, sollten Sie sich unbedingt impfen lassen - hier kann das Erkrankungsrisiko bis 1/1000 pro Monat hoch sein. Ansonsten ist eine Impfung nicht unbedingt notwendig.  
+Desweiteren wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  
+Kinder können erst ab einem Alter von frühestens 6 Monaten geimpft werden, obwohl man lieber bis zum 9ten Lebensmonat wartet. Da Sie in ein Gebiet mit eher niedrigem Risiko reisen, würde ich die Impfung ab dem 9ten Monat empfehlen - wenn die Reise wirklich zum jetzigen Zeitpunkt stattfinden muss. Bei jüngeren Kindern muss der Mückenschutz lückenlos sein. ",null
+7,YF3,FALSE,child,null,"Gelbfieber kann in Ihrem Reisegebiet vorkommen. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung ist jedoch gering so dass eine Impfung zum Eigenschutz nicht unbedingt notwendig ist - und vor allem, wenn schwerwiegende Vorerkrankungen oder hohes Alter oder sonstige Impfrisiken bestehen, nicht durchgeführt werden sollte.  
+Allerdings wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Wenn Sie jedoch auch nach Sansibar reisen wollen werden Sie höchstwahrscheinlich die Impfung bei der dortigen Einreise nachweisen müssen.
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  
+Kinder können erst ab einem Alter von frühestens 6 Monaten geimpft werden, obwohl man lieber bis zum 9ten Lebensmonat wartet. Da Sie in ein Gebiet mit eher niedrigem Risiko reisen, würde ich die Impfung ab dem 9ten Monat empfehlen - wenn die Reise wirklich zum jetzigen Zeitpunkt stattfinden muss. Bei jüngeren Kindern muss der Mückenschutz lückenlos sein. ",null
+8,YF4,FALSE,child,null,"Gelbfieber kann in Ihrem Reisegebiet vorkommen. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung wird auf bis zu 1 von Zehntausend pro Reisemonat geschätzt. In einigen Gegenden kommt es aber auch nicht oder kaum vor (siehe Karte).
+Wenn Sie in eines der roten Gebiete reisen, dann sollten Sie sich unbedingt zu Ihrem eigenen Schutz impfen lassen.
+Desweiteren wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  
+Kinder können erst ab einem Alter von frühestens 6 Monaten geimpft werden, obwohl man lieber bis zum 9ten Lebensmonat wartet. Da Sie in ein Gebiet mit eher niedrigem Risiko reisen, würde ich die Impfung ab dem 9ten Monat empfehlen - wenn die Reise wirklich zum jetzigen Zeitpunkt stattfinden muss. Bei jüngeren Kindern muss der Mückenschutz lückenlos sein. ",null
+7,YF1,TRUE,null,null,"Gelbfieber kommt in Ihrem Reisegebiet vor. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung wird auf 1 von Tausend pro Reisemonat geschätzt. Sie sollten sich also unbedingt zu Ihrem eigenen Schutz impfen lassen.
+Desweiteren wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  
+ 
+Lebendimpfungen wie die Gelbfieberimpfung sind bei Schwangeren generell verboten sind, aus Angst vor einer Übertragung auf den Fötus. Da Sie jedoch in ein Gebiet mit eher hohem Risiko reisen wäre hier nach sorgfältiger Nutzen-Risiko-Abwägung eine Impfung möglicherweise sinnvoll. Sie sollten prüfen, ob die Reise zum jetzigen Zeitpunkt unbedingt notwendig ist und sich sehr gut gegen Mücken schützen. Eine persönliche Beratung ist unbedingt anzuraten!",null
+7,YF2,TRUE,null,null,"Gelbfieber kann in Ihrem Reisegebiet vorkommen. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung ist jedoch je nach der bereisten Gegend sehr unterschiedlich. Wenn Sie in ein auf der Karte rot markierte Gegend reisen, sollten Sie sich unbedingt impfen lassen - hier kann das Erkrankungsrisiko bis 1/1000 pro Monat hoch sein. Ansonsten ist eine Impfung nicht unbedingt notwendig.  
+Desweiteren wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  
+ 
+Lebendimpfungen wie die Gelbfieberimpfung sind bei Schwangeren generell verboten sind, aus Angst vor einer Übertragung auf den Fötus. Da Sie zudem in ein Gebiet mit eher geringem Risiko reisen würde ich hier von einer Impfung abraten. Sie sollten prüfen ob die Reise zum jetzigen Zeitpunkt unbedingt notwendig ist und sich sehr gut gegen Mücken schützen. Eine persönliche Beratung ist aber in diesem Fall sehr empfehlenswert.",null
+7,YF3,TRUE,null,null,"Gelbfieber kann in Ihrem Reisegebiet vorkommen. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung ist jedoch gering, so dass eine Impfung zum Eigenschutz nicht unbedingt notwendig ist - und vor allem, wenn schwerwiegende Vorerkrankungen oder hohes Alter oder sonstige Impfrisiken bestehen, nicht durchgeführt werden sollte.  
+Allerdings wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Wenn Sie jedoch auch nach Sansibar reisen wollen, werden Sie höchstwahrscheinlich die Impfung bei der dortigen Einreise nachweisen müssen.
+ 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  
+ 
+Lebendimpfungen wie die Gelbfieberimpfung sind bei Schwangeren generell verboten sind, aus Angst vor einer Übertragung auf den Fötus. Da Sie zudem in ein Gebiet mit eher geringem Risiko reisen würde ich hier von einer Impfung abraten. Sie sollten prüfen, ob die Reise zum jetzigen Zeitpunkt unbedingt notwendig ist und sich sehr gut gegen Mücken schützen. Eine persönliche Beratung ist aber in diesem Fall sehr empfehlenswert.",null
+8,YF4,TRUE,null,null,"Gelbfieber kann in Ihrem Reisegebiet vorkommen. Es ist ein Virus, welches von Mücken übertragen wird und bei 20-60% der Betroffenen zum Tode führt. Das Risiko einer Erkrankung wird auf bis zu 1 von Zehntausend pro Reisemonat geschätzt. In einigen Gegenden kommt es aber auch nicht oder kaum vor (siehe Karte).
+Wenn Sie in eines der roten Gebiete reisen, dann sollten Sie sich unbedingt zu Ihrem eigenen Schutz impfen lassen.
+Desweiteren wird der Nachweis einer Impfung auch oftmals bei der Einreise verlangt, wenn Sie aus einem Gelbfieberendemiegebiet in das Land einreisen. Dies gilt allerdings meistens nicht, wenn Sie dort weniger als 12 Stunden wegen Umsteigens auf dem Flughafen aufgehalten haben. 
+Es handelt sich bei der Impfung um eine Lebendimpfung. Sie sollte mindestens 10 Tage vor der Abreise erfolgen. Der Impfschutz hält wahrscheinlich ein Leben lang. In Deutschland wird derzeit dennoch eine Auffrischimpfung nach 10 Jahren empfohlen. Menschen mit geschwächtem Immunsystem oder solche mit Hühnereiweißallergie dürfen nicht geimpft werden.  
+ 
+Lebendimpfungen wie die Gelbfieberimpfung sind bei Schwangeren generell verboten sind, aus Angst vor einer Übertragung auf den Fötus. Da Sie zudem in ein Gebiet mit eher geringem Risiko reisen würde ich hier von einer Impfung abraten. Es sei denn es besteht ein akuter Ausbruch. Sie sollten prüfen ob die Reise zum jetzigen Zeitpunkt unbedingt notwendig ist und sich sehr gut gegen Mücken schützen. Eine persönliche Beratung ist aber in diesem Fall sehr empfehlenswert.",null
+TBD by country,MalLr,null,null,null,"Leider gibt es keine Impfung gegen Malaria - zumindest noch nicht für Reisende!
+  
+Der Erreger der Malaria wird von v.a. nachts stechenden Mücken übertragen. Die Erkrankung kommt weltweit in tropischen und subtropischen Ländern vor - inetwa 200 Millionen Infizierte gibt es jedes Jahr, davon sterben 600.000. Die große Mehrheit der Infektionen gibt es in Afrika. Unbehandelt führt die schwere Form der Malaria in 20% der Fälle zum Tode, manchmal innerhalb weniger Tage. 
+ 
+Im von Ihnen bereisten Land kommt die Malaria nur in einigen Gegenden vor und/oder ist generell selten.
+Sie sollten sich gut gegen Mücken schützen. Ansonsten sollten Sie, falls Sie sich in Gegenden mit Malariaübertragung aufhalten, eine sogenannte ""stand-by-Prophylaxe"" machen. Das heißt Sie nehmen ein Medikament mit, mit dem Sie die Malaria behandeln könnte, sollte es zu einer Infektion kommen. 
+
+Die Frage ist dann: Wann sollten Sie dieses Medikament einnehmen? Wie wissen Sie, ob Sie eine Infektion haben? Hierzu muss man wissen, dass eine Malaria mindestens 6 Tage, manchmal jedoch einige Wochen braucht, nach Übertragung durch die Mücke, bevor Sie krank werden. Fast immer hat man hohes Fieber mit Kopf- und Gelenkschmerzen und allgemeinem Krankheitsgefühl - jedoch ist auch Durchfall häufig. Es können aber auch andere Beschwerden wie Erbrechen oder Husten auftreten. Wenn Sie also Fieber haben sollten Sie sich ärztlich untersuchen lassen. Mit den vielerorts verfügbaren Schnelltests ist die Diagnosestellung eigentlich schnell und einfach. Falls der Test positiv ist dann sollten Sie das mitgeführte Mittel einnehmen. Sollte es Ihnen aber unmöglich, sein einen solchen Test durchzuführen, dann können Sie das Mittel auch einfach so einnehmen (obwohl in der von Ihnen bereisten Gegend andere Erkrankungen statistisch gesehen deutlich wahrscheinlicher sind).  
+ ",null
+TBD by country,MalHrE,null,null,null,"Leider gibt es keine Impfung gegen Malaria - zumindest noch nicht für Reisende!
+
+Der Erreger der Malaria wird von v.a. nachts stechenden Mücken übertragen. Die Erkrankung kommt weltweit in tropischen und subtropischen Ländern vor - inetwa 200 Millionen Infizierte gibt es jedes Jahr, davon sterben 600.000. Unbehandelt führt die schwere Form der Malaria in 20% der Fälle zum Tode, manchmal innerhalb weniger Tage. 
+ 
+Bei Ihrem Reiseziel wird, neben einem konsequenten Mückenschutz, die regelmäßige Einnahme eines Medikamentes empfohlen, um sich vor Malaria zu schützen.
+ 
+Sie sollten unbedingt eine solche Prophylaxe durchführen. In Frage kommen Atovaquon/Proguanil (tägliche Einnahme, 1 Tag vor bis 7 Tage nach der Reise) oder Doxycyclin (1 Tag vor bis 30 Tage nach Rückkehr, tägliche Einnahme), in speziellen Fällen eventuell Mefloquin (1x/Woche). 
+ 
+Wenn Sie eine solch regelmäßige Einnahme ablehnen, sollten Sie zumindest ein Medikament mitnehmen, um die Malaria im Falle einer Infektion behandeln zu können (sogenannte ""stand-by-Prophylaxe; zB. mit Atovaquon/Proguanil). Sollten Sie Fieber haben (auch Wochen nach der Rückkehr) dann müssen Sie sich unbedingt sofort auf Malaria hin untersuchen lassen - und falls das nicht möglich ist die Malariatherapie auf verdacht einnehmen!",null
+TBD by country,MalHrS,null,null,null,"Leider gibt es keine Impfung gegen Malaria - zumindest noch nicht für Reisende!
+
+Der Erreger der Malaria wird von v.a. nachts stechenden Mücken übertragen. Die Erkrankung kommt weltweit in tropischen und subtropischen Ländern vor - inetwa 200 Millionen Infizierte gibt es jedes Jahr, davon sterben 600.000. Die große Mehrhait der Infektionen gibt es in Afrika. Unbehandelt führt die schwere Form der Malaria in 20% der Fälle zum Tode, manchmal innerhalb weniger Tage. 
+ 
+Neben einem konsequenten Mückenschutz wird in Gegenden mit hohem Übertragungsrisiko (rot auf der Karte) die regelmäßige Einnahme eines Malariamittels empfohlen. In Gegenden mit geringem Übertragungsrisiko reicht eine sogenannte ""stand-by-Prophylaxe"", das heißt man nimmt ein Medikament mit, mit dem man die Malaria behandeln könnte, sollte es zu einer Infektion kommen. 
+
+Die Frage ist dann: Wann sollten Sie dieses Medikament einnehmen? Wie wissen Sie, ob Sie eine Infektion haben? Hierzu muss man wissen, dass eine Malaria mindestens 6 Tage, manchmal jedoch einige Wochen braucht, nach Übertragung durch die Mücke, bevor Sie krank werden. Fast immer hat man hohes Fieber mit Kopf- und Gelenkschmerzen und allgemeinem Krankheitsgefühl - jedoch ist auch Durchfall häufig. Es können aber auch andere Beschwerden wie Erbrechen oder Husten auftreten. Wenn Sie also Fieber haben sollten Sie sich ärztlich untersuchen lassen. Mit den vielerorts verfügbaren Schnelltests ist die Diagnosestellung eigentlich schnell und einfach. Falls der Test positiv ist dann sollten Sie das mitgeführte Mittel einnehmen. Sollte es Ihnen aber unmöglich, sein einen solchen Test durchzuführen, dann können Sie das Mittel auch einfach so einnehmen (obwohl in Ihrem Reiseland andere Erkrankungen statistisch gesehen deutlich wahrscheinlicher sind).  
+ 
+Da Sie in ein Land reisen, in dem das Infektrisiko regional sehr unterschiedlich ist, sollten Sie sich die Karte genau anschauen. Bei Aufenthalten in roten Gegenden, die länger als 3 Tage dauern, würde ich die regelmäßige Einnahme empfehlen. Bei kürzen Aufenthalten sollte es einem gelingen, den Mückenschutz so konsequent umzusetzen, dass eine Infektion praktisch ausgeschlossen ist.",null
+10,FSME,null,null,null,"Diese Erkrankung wird von Zecken übertragen. Obwohl ein hoher Anteil der Infektionen (ca. 70–95%) asymptomatisch verläuft, kann es zu schweren Verläufen kommen, mit der Gefahr von bleibenden neurologischen Ausfällen oder gar dem Tod. Eine wirksame Behandlung besteht nicht. Das Ansteckungsrisiko hängt sehr stark vom persönlichen Verhalten ab. Wer sich nur in der eigenen Wohnung, dem Büro, anderen Gebäuden oder in Straßen aufhält und Spaziergänge in die Natur meidet wie die Pest, braucht keine Impfung. Und wer jedes Jahr 10 Zecken hat weil er ständig mit seinem Hund durch die Wälder streift - der ist gut beraten sich impfen zu lassen.  
+Die Impfung schützt zuverlässig vor der Erkrankung - allerdings erst 2 Wochen nach der 2ten Impfung. Insgesamt sind 3 Impfungen erforderlich (innerhalb 5-12 Monaten, die ersten beide können beim Schnellimpfschema innerhalb von 1-2 Wochen durchgeführt werden, je nach Hersteller. Eine Auffrischimpfung wird nach 3 Jahren empfohlen, danach alle 5 (oder gar 10) Jahre.",null
+9,MenAfrica,null,null,null,"Große saisonale Epidemien traten in den vergangenen Jahrzehnten überwiegend im sogenannten Meningitisgürtel auf – die Gegend, welche Sie bereisen werden. Sie sollten sich impfen lassen.",null
+9,MenSaudi,null,null,null,"Große saisonale Epidemien traten in den vergangenen Jahrzehnten überwiegend im sogenannten Meningitisgürtel auf – die Gegend, welche Sie bereisen werden. Sie sollten sich impfen lassen.
+Für Pilgerreisende ist eine Impfung gegen die Meningokokken vorgeschrieben. Dies ist sehr naheliegend, da zum Haddsch auch viele Pilger aus dem sogenannten Meningitisgürtel kommen.",null
+10,JE,null,null,null,"Die Japanische Encephalitis ist eine Viruserkrankung, die vor allem, aber nicht nur, in ländlichen Gebieten und in den (sub-)tropischen Regionen vor allem während der Regenzeit durch Mücken übertragen wird. Sie ist der FSME, welche in Deutschland von Zecken übertragen wird, nicht unähnlich. Meistens verläuft die Infektion unbemerkt oder milde. Manifeste Infektionen enden allerdings bei einem Drittel tödlich, ein weiteres Drittel inetwa behält bleibende neurologische Schäden. Eine wirkungsvolle Therapie besteht nicht. Ein konsequenter Mückenschutz schützt gegen diese Erkrankung. Eine Impfung wird vor allem bei längeren Reisen (> 4 Wochen) in ländliches Gebiet empfohlen, sowie bei Leuten über 60 oder bei Reisen in ein Gebiet mit aktuellem Ausbruch. 
+Impfung: 2x innerhalb von 4 Wochen, Schnellimpfschema möglich (Abstand 1 Woche). Kosten ca. 2x100€. Eine erste Auffrischimpfung sollte nach 1-2 Jahren erfolgen. Danach hält der Schutz wohl 10 Jahre.
+ 
+ 
+Bitte bedenken Sie: In Asien gibt es zwar kein Gelbfieber. Da es jedoch vielerorts die Mücken gibt, die Gelbfieber übertragen könnten, gibt es eine Impfpflicht sollten Sie aus einem Land mit Gelbfiebervorkommen einreisen (Teile Afrikas und Südamerikas) ",null
+null,null,null,null,middle,"Einige Menschen fahren Motorrad oder gehen Tauchen, weil es viel Spaß macht und unglaublich schön ist. Andere Menschen würden niemals Motorrad fahren oder Tauchen gehen, weil es gefährlich ist und Sie nicht alle Risiken dabei kontrollieren können. Beides ist richtig und nachvollziehbar! Bei Reise-Impfempfehlungen gibt es nicht immer richtig oder falsch – es gibt für Sie passend oder nicht!
+ 
+Wegen der geplanten Reise sollten Sie über die im Folgenden kurz beschriebenen Erkrankungen Bescheid wissen. Dann haben Sie die notwendigen Informationen, um zu entscheiden, ob Sie die Impfung brauchen oder nicht.
+ 
+ 
+Krankheiten die durch verunreinigte Speisen oder Wasser verursacht werden (fäkal-oral).
+ 
+Wenn Sie folgenden Vorsichtsmaßnahmen beachten, senken Sie das Risiko fäkal-oral übertragener Infektionen (zB. der häufigen Reisedurchfälle, einiger Wurmerkrankungen...): 
+•	Trinken Sie nur abgefülltes Wasser aus versiegelten Flaschen oder Wasser, das zuvor gekocht oder desinfiziert wurde.
+•	Vermeiden Sie Leitungswasser und Getränke mit Eiswürfeln, da diese aus ungefiltertem Wasser hergestellt sein könnten. 
+•	Essen Sie gut durchgekochte oder gebratene Speisen, die heiß serviert werden.
+•	Meiden Sie rohe oder halbrohe Lebensmittel wie Salate, ungekochtes Gemüse und unpasteurisierte Milchprodukte.
+•	Auch von rohem Fleisch und Meeresfrüchten eher Abstand halten. 
+•	Waschen Sie sich regelmäßig Ihre Hände mit Seife, insbesondere vor dem Essen und nach dem Toilettengang. 
+ 
+Hepatitis A
+Diese Erkrankung kommt fast weltweit vor - je tropischer desto häufiger. Sie führt bei Erwachsenen meistens nach 2-6 Wochen zu wochenlangem Fieber, Bauchschmerzen, Übelkeit, teilweise mit Gelbsucht, Erbrechen, Durchfall und starker Müdigkeit. Obwohl die meisten Leute danach wieder komplett gesund werden kann das doch eine sehr unangenehme Zeit sein. V.a. Ältere oder Leuten mit vorbestehenden Leberkrankheiten können auch versterben. Da Hepatitis A zu den häufigsten Reisemitbringsel nach Tropenreisen gehört und die Impfung nahezu einen 100% Schutz gibt, empfehle ich diese Impfung eigentlich jedem Reisenden.
+1 Impfung = 1 Jahr Schutz. Wenn nach frühestens 6 Monaten nochmal geimpft wird = 25 Jahre Schutz.
+ 
+Typhus
+Einige Menschen scheiden diese Salmonellen mit dem Stuhl aus. Wenn dieser jetzt aufgrund mangelhaften Abwassermanagements auf dem Salatblatt landet, kann man sich anstecken. Typhus ist häufiger in Gegenden mit dichter Besiedlung und schwierigen sanitären Bedingungen. Hauptrisikogebiete sind Indien und Nachbarländer, Südostasien, Afrika (den Süden ausgenommen). Gerade in Indien und Umgebung gibt es zunehmend Salmonellenstämme, die gegen viele Antibiotika resistent sind und somit schwer zu behandeln. Die Erkrankung verläuft, meistens 1-5 Wochen nach Ansteckung, eher langsam. Zu hohem Fieber, Kopf- und Bauchschmerzen gesellt sich nach einigen Tagen oftmals Durchfall. Komplikationen wie ein Darmdurchbruch treten eher nach einer Woche oder noch später auf. Bei unzureichender oder zu spät begonnener Therapie kann die Erkrankung auch tödlich enden. Die Impfung hat leider eine nur mäßige Wirksamkeit von 50-70%.
+Bei Ihrer Reisedauer würde ich die Impfung v.a. dann empfehlen, wenn sie nach Indien oder Nachbarländer verreisen oder Sie in Gegenden unterwegs sind mit sehr schlechter medizinischer Versorgung. Auch bei Reisenden, die wegen Magenproblemen Säureblocker nehmen, würde ich eine Impfung empfehlen. 
+Der Totimpfstoff wird 1x intramuskulär verabreicht und schützt dann 2-3 Jahre lang. Der Lebendimpfstoff muss an den Tagen 1, 3 und 5. eingenommen werden.
+ 
+Cholera
+Diese bakterielle Erkrankung, welche einen sehr starken Durchfall, oftmals mit Erbrechen auslösen kann, befällt fast immer nur Einheimische, die darauf angewiesen sind stark verschmutztes Wasser zu trinken. Reisende kommen kaum je in diese Situation. Die Impfung würde ich nur Medizinischem Personal in Choleraepidemiegebieten sowie Katastrophenhelfern empfehlen. 
+ 
+Polio = Kinderlähmung
+Meistens verläuft diese Krankheit ohne Symptome. Leider kann es aber auch, nach initial unspezifischen Symptomen, im weiteren Verlauf zu irreversiblen Lähmungen kommen. Eine Therapie besteht nicht. Nachdem durch großangelegt Impfkampagnen die Krankheit fast ausgerottet werden konnte, ist die Situation nun kompliziert und verändert sich ständig. Der ursprüngliche Poliotyp kommt eigentlich derzeit (10.2023) nur noch In Pakistan, Afghanistan, Malawi und Mozambik vor. Allerdings zirkulieren mittlerweile in vielen Ländern Poliotypen, die von den oralen Impfviren abstammen - teilweise sogar in Großbritannien und den USA. Jedenfalls wird in einigen Ländern auch bei recht kurzen Aufenthalten wie Ihrem der Nachweis einer nicht länger als 10 Jahre zurückliegenden Impfung verlangt. Andere Länder verlangen sogar, dass eine Impfung in den letzten 4-52 Wochen vor der Ausreise, erfolgte (allerdings erst bei einer Reisedauer von >4 Wochen). 
+Ich empfehle jedem nach Afrika oder Asien Reisendem eine solche Impfung. Oftmals muss eh Tetanus/Diphterie/Keuchhusten aufgefrischt werden - da kann man Polio gleich in einem Vierfachimpfstoff mitimpfen.
+Grundimmunisierung 3x. Dann 1. Auffrischung mit 11-16 Jahren. Dann alle 10 Jahre bei Risiko.",1
+null,null,null,null,middle,"Von Insekten übertragene Erkrankungen
+ 
+Je nach Reiseort können eine Vielzahl von Erregern durch Stechmücken oder auch andere blutsaugende Insekten übertragen werden. Hierzu gehören Malaria, Gelbfieber, Dengue, Zika, Filarien, FSME, Leishmaniose, Chagas...  und viele mehr. Gegen einige dieser Erkrankungen kann man sich durch Impfungen schützen (zB. Gelbfieber), gegen andere schützt man sich durch die Einnahme von Medikamenten (Malaria). In jedem Fall sinnvoll ist ein guter Mückenschutz. Dieser beinhaltet: 
+•	Schlafen unter mit Insektiziden imprägnierten Moskitonetzen.
+•	Die unbedeckte Haut mit mückenabweisenden Mitteln einreiben: DEET 30-50% oder Icaridin.
+•	Hautbedeckende, helle, imprägnierte Kleidung tragen.
+•	Sich in mückensicheren Räumen aufhalten.
+•	Insektizide Sprays oder Spiralen verwenden.
+•	Sich NICHT auf wenig oder gar nicht wirksame Mittel wie Amulette, Knoblauch oder sonstiges verlassen.
+Dengue
+Jährlich gibt es schätzungsweise 100 Millionen Fälle. Obwohl die Krankheit sehr unangenehm sein kann (wie ""Grippe"", nur heftiger) kommen Todesfälle durch Schock oder innere Blutungen vor allem bei Zweitinfektionen vor - also bei Menschen, die bereits eine Dengueinfektion hatten. Erst seit Kurzem gibt es einen Impfstoff. Langzeiterfahrungen bestehen deswegen hierzu noch nicht. Ich empfehle diese Impfung vor allem Leuten, die schon mal mit Dengue infiziert waren - oder bei sehr langen Aufenthalten.
+Impfschema: Er soll in 2 mal verabreicht werden - Abstand 3 Monate. Auch nach nur einer Impfung soll schon ein recht guter (80%) Schutz bestehen. ",2
+null,null,null,null,middle,"Sexuell übertragene Erkrankungen
+ 
+Ich setzte voraus, dass gewusst ist, wie man sich hier schützen kann, wenn Abstinenz nicht in Frage kommt. Es sei erwähnt, dass es vor allem in Südostasien Gonokokkenstämme gibt, die mit allen üblichen Antibiotika nicht mehr zu behandeln sind!
+ 
+Zika
+Das Zika-Virus, welches mittlerweile in vielen Tropenländern vorkommt, und vor allem von Mücken übertragen wird, kann auch beim Sex übertragen werden. Beim Föten kann es zu schweren Fehlbildungen kommen. Männer können bis zu 3 Monate nach einer - oftmals unbemerkten Infektion - das Virus auf ihre Partnerin übertragen. Frauen können bis zu 2 Monate lang nach einer Infektion das Virus auf den Fötus übertragen. Sie sollten deswegen großen Wert auf eine konsequente Verhütung für diesen Zeitraum legen.
+ 
+Hepatitis B
+Diese Erkrankung ist eine der häufigsten Infektionskrankheiten weltweit. Sie führt oftmals zu Leberzirrhose, Leberzellkrebs und Tod. Am häufigsten ist sie in Afrika, Mongolei, China, Südostasien, Papua Neu-Guinea und Haiti. 
+Seit Langem werden alle Kinder in Deutschland geimpft - nach 3 Impfungen geht man in der Regel von einem lebenslangen Schutz aus.
+Sollten Sie die Impfung nicht haben würde ich diese vor allem empfehlen, wenn Tattoos, Piercings oder medizinische Eingriffe während Reisen in Länder mit hohem Risiko geplant sind.
+Unabhängig von Reisen finde ich es sinnvoll, diese Impfung zu haben.
+Für eine vernünftige Grundimmunisierung und somit brauchbaren Schutz braucht man üblicherweise 6 Monate, ein Schnellimpfschema ist innerhalb 3 Wochen durchführbar. Bei einem 2021 zugelassenen Impfstoff für Erwachsene reichen 2 Impfdosen (Abstand 4 Wochen). 
+ 
+ 
+ 
+ 
+Andere Erkrankungen, gegen die man sich mit Impfung schützen kann
+ 
+Tollwut
+Tollwut kann nur durch einen Biss von einem tollwütigen Tier übertragen werden. Nur Säugetiere können Tollwut haben - in 99% der Fälle sind es Hunde, die es übertragen. Gebissen werden Reisende jedoch auch nicht selten von Katzen oder Affen. Besondere Vorsicht ist bei Fledermäusen geboten - es sind die einzigen Tiere, die Tollwut haben (und übertragen) können, ohne daran zu sterben. Die Erkrankung, welche sich oftmals erst viele Wochen oder gar Monate nach einem Biss manifestiert, endet immer tödlich. Es gibt keine Therapie. Man kann sich aber nach einem Biss vor einer Ansteckung schützen, indem man die Wunde ausgiebig mit Wasser und Seife wäscht und desinfiziert. Dann sollte man schnellstmöglich impfen lassen (je nach Schema 4-5 Impfungen innerhalb von 2-4 Wochen) und Tollwutimmunglobulin in die Wunde (und intramuskulär) spritzen lassen. Die Tollwutimpfung ist jedoch nicht in allen Ländern verfügbar, die Immunglobuline noch seltener - Siehe Karte!
+Wer sich vor der Reise impfen lässt, hat möglicherweise bereits einen ausreichenden Schutz nach einem Biss. Dennoch werden sicherheitshalber noch 2 weitere Impfungen baldmöglichst nach dem Biss empfohlen (Tag 0 und 3). 
+Ob man sich impfen lassen soll, hängt also, neben den persönlichen Vorlieben (einige müssen jede Katze oder Hund streicheln, andere weniger) vor allem davon ab, ob im Zielland eine sinnvolle Postexpositionsprophylaxe mit Impfung und Immunglobulinen möglich ist. Auch das Budget spielt eine Rolle, die Impfung ist nicht billig. Bei Leuten die regelmäßig verreisen würde ich die Impfung eher empfehlen. Für eine einmalige, recht kurze Reise wie die Ihre, ist der Aufwand vielleicht etwas übertrieben. 
+Impfschema: 3x innerhalb von 3 Wochen (WHO empfiehlt 2x innerhalb 7-21 Tagen).
+ 
+ 
+ 
+Influenza
+In den Tropen kann es ganzjährig zu Grippeausbrüchen kommen. Grippe macht Fieber - und Fieber soll in Tropenländer rasch medizinisch abgeklärt werden sollte, um gefährliche Infekte auszuschließen oder zu behandeln. Aufenthalte in Krankenhäusern bergen immer auch Risiken (nosokomiale Infektion, Besiedlung mit resistenten Keimen), mal abgesehen vom finanziellen und zeitlichen Aufwand. Desweiteren kann Menschen mit Fieber die Mitnahme in Bussen, Fliegern oder anderen Transportmitteln untersagt werden. So gesehen sollte man jede Möglichkeit nutzen, um Fieber zu vermeiden.
+Derzeit ist jedoch in Deutschland kein Impfstoff mit der von der WHO empfohlenen Stammanpassung für die Südhalbkugel zugelassen. Man kann sich auch vor Ort impfen lassen.
+Ich würde die Impfung vor allem Menschen mit Vorerkrankungen, Schwangeren und länger Verreisenden empfehlen.
+Impfschema: 1x impfen - Schutz 1 Jahr. 
+ 
+ 
+Meningitis
+Diese bakterielle Hirnhautentzündung wird über Tröpfchen aus Mund oder Nase übertragen. Kinder und junge Erwachsene sind häufiger betroffen. Diese Erkrankung tritt weltweit auf und ist glücklicherweise selten. Sie ist in vielen tropischen Ländern jedoch etwas häufiger als bei uns. 
+Die Erkrankung kann sehr schnell sehr böse verlaufen und endet häufig mit dem Tod oder bleibenden neurologischen Schäden. Ich empfehle die Impfung jedem Reisenden, der engeren Kontakt zur Bevölkerung hat (Märkte, Konzerte, Familienbesuche) oder in medizinischen Einrichtungen oder Kindergärten arbeitet. ",3
+null,null,null,null,middle,"Der tetravalente Impfstoff sollte mindestens 10 Tage vor Abreise einmalig verabreicht werden. Der Schutz hält 5 Jahre. 
+
+ 
+ 
+
+
+ 
+
+So eine Reise ist eine gute Gelegenheit zu prüfen, ob Impflücken von auch in Deutschland empfohlenen Impfungen bestehen - um diese dann gegebenenfalls zu schließen. 
+ 
+ 
+In Deutschland empfohlene Impfungen
+ 
+Tetanus, Diphtherie, Keuchhusten (und evtl Polio)
+So sollte alle 10 Jahre die Kombinationsimpfung gegen Tetanus, Diphtherie und Keuchhusten aufgefrischt werden - je nach Reiseland (v.a. Afrika und Asien) am Besten gleich noch Polio dazu.
+Grundimmunisierung: 4 Impfungen, dann alle 10 Jahre.
+ 
+Mumps, Masern, Röteln
+Desweiteren sollte man sicherstellen, dass man als Kind entweder 2x gegen Mumps, Masern und Röteln (Kombi-Impfstoff) geimpft wurde - oder eine solche nachholen. Alle nach 1970 Geborenen mit unklarer Impfsituation, keiner oder nur einer Impfung: Nochmals impfen. 
+2 Impfungen = lebenslanger Schutz (nach einmaliger Impfung in den meisten Fällen ebenfalls)
+ 
+FSME
+Je nach Wohnort und Hobbies wird eine FSME-Impfung empfohlen. Wer viel draußen ist und öfters Zecken hat sollte sich unbedingt impfen lassen.
+Grundimmunisierung: 3x. Erstmalig nach 3, später alle 5-10 Jahre auffrischen.
+ 
+COVID
+Stand 10.2023. v.a. bei Erwachsenen empfohlen. 
+Grundimmunisierung 3x. Ältere Menschen (>60.) sowie Menschen mit verschiedenen Vorerkrankungen sollen sich alle 12 Monate auffrischen lassen.",4
+null,null,null,null,long,"Einige Menschen fahren Motorrad oder gehen Tauchen, weil es viel Spaß macht und unglaublich schön ist. Andere Menschen würden niemals Motorrad fahren oder Tauchen gehen, weil es gefährlich ist und Sie nicht alle Risiken dabei kontrollieren können. Beides ist richtig und nachvollziehbar! Bei Reise-Impfempfehlungen gibt es nicht immer richtig oder falsch – es gibt für Sie passend oder nicht!
+
+Je länger die Reise - desto größer die Wahrscheinlichkeit einer reisebedingten Infektion. 
+Sie sollten über die im Folgenden kurz beschriebenen Erkrankungen Bescheid wissen. Dann haben Sie die notwendigen Informationen, um zu entscheiden, ob Sie Impfungen brauchen oder nicht. Bei Reisen, die viele Monate dauern, oder in verschiedene Weltregionen führen, oder mit Praktika in Schulen oder sonstige ""untypische"" Reisen, würde ich immer eine persönliche Beratung empfehlen.
+ 
+ 
+ 
+Krankheiten die durch verunreinigte Speisen oder Wasser verursacht werden (fäkal-oral).
+ 
+Wenn Sie folgenden Vorsichtsmaßnahmen beachten, senken Sie das Risiko fäkal-oral übertragener Infektionen (zB der häufigen Reisedurchfälle, einiger Wurmerkrankungen...): 
+•	Trinken Sie nur abgefülltes Wasser aus versiegelten Flaschen oder Wasser, das zuvor gekocht oder desinfiziert wurde.
+•	Vermeiden Sie Leitungswasser und Getränke mit Eiswürfeln, da diese aus ungefiltertem Wasser hergestellt sein könnten. 
+•	Essen Sie gut durchgekochte oder gebratene Speisen, die heiß serviert werden.
+•	Meiden Sie rohe oder halbrohe Lebensmittel wie Salate, ungekochtes Gemüse und unpasteurisierte Milchprodukte.
+•	Auch von rohem Fleisch und Meeresfrüchten eher Abstand halten. 
+•	Waschen Sie sich regelmäßig Ihre Hände mit Seife, insbesondere vor dem Essen und nach dem Toilettengang. 
+ 
+Hepatitis A
+Diese Erkrankung kommt fast weltweit vor - je tropischer desto häufiger. Sie führt bei Erwachsenen meistens nach 2-6 Wochen zu wochenlangem Fieber, Bauchschmerzen, Übelkeit, teilweise mit Gelbsucht, Erbrechen, Durchfall und starker Müdigkeit. Obwohl die meisten Leute danach wieder komplett gesund werden, kann das doch eine sehr unangenehme Zeit sein. V.a. Ältere oder Leuten mit vorbestehenden Leberkrankheiten können auch versterben. Da Hepatitis A zu den häufigsten Reisemitbringsel nach Tropenreisen gehört und die Impfung nahezu einen 100% Schutz gibt, empfehle ich diese Impfung eigentlich jedem Reisenden.
+1 Impfung = 1 Jahr Schutz. Wenn nach frühestens 6 Monaten nochmal geimpft wird = 25 Jahre Schutz.
+ 
+Typhus
+Einige Menschen scheiden diese Salmonellen mit dem Stuhl aus. Wenn dieser jetzt aufgrund mangelhaften Abwassermanagements auf dem Salatblatt landet, kann man sich anstecken. Typhus ist häufiger in Gegenden mit dichter Besiedlung und schwierigen sanitären Bedingungen. Hauptrisikogebiete sind Indien und Nachbarländer, Südostasien, Afrika (den Süden ausgenommen). Gerade in Indien und Umgebung gibt es zunehmend Salmonellenstämme, die gegen viele Antibiotika resistent sind und somit schwer zu behandeln. Die Erkrankung verläuft, meistens 1-5 Wochen nach Ansteckung, eher langsam. Zu hohem Fieber, Kopf- und Bauchschmerzen gesellt sich nach einigen Tagen oftmals Durchfall. Komplikationen wie ein Darmdurchbruch treten eher nach einer Woche oder noch später auf. Bei unzureichender oder zu spät begonnener Therapie kann die Erkrankung auch tödlich enden. Die Impfung hat leider eine nur mäßige Wirksamkeit von 50-70%.
+Bei Reisen die länger als 3 Monate dauern, empfehle ich die Impfung jedem, unabhängig vom Reiseziel. Auch solche die wegen Magenproblemen Säureblocker nehmen oder nach Indien oder Nachbarländer verreisen sollten sich unbedingt impfen lassen.
+Der Totimpfstoff wird 1x intramuskulär verabreicht und schützt dann 2-3 Jahre lang. Der Lebendimpfstoff muss an den Tagen 1, 3 und 5. eingenommen werden.
+ 
+Cholera
+Diese bakterielle Erkrankung, welche sich durch starken Durchfall, teilweise mit Erbrechen äußert, befällt fast immer nur Einheimische, die darauf angewiesen sind, stark verschmutztes Wasser zu trinken. Reisende kommen kaum je in diese Situation. Die Impfung würde ich nur Medizinischem Personal in Choleraepidemiegebieten sowie Katastrophenhelfern empfehlen. 
+ 
+Polio = Kinderlähmung
+Meistens verläuft diese Krankheit ohne Symptome. Leider kann es aber auch, nach initial unspezifischen Symptomen, im weiteren Verlauf zu irreversiblen Lähmungen kommen. Eine Therapie gibt es nicht. Nachdem durch großangelegt Impfkampagnen die Krankheit fast ausgerottet werden konnte, ist die Situation nun kompliziert und verändert sich ständig. Der ursprüngliche Poliotyp kommt eigentlich derzeit (10.2023) nur noch In Pakistan, Afghanistan, Malawi und Mozambik vor. Allerdings zirkulieren mittlerweile in vielen Ländern Poliotypen, die von den oralen Impfviren abstammen - teilweise sogar in Großbritannien und den USA. Jedenfalls wird in einigen Ländern auch bei recht kurzen Aufenthalten wie Ihrem der Nachweis einer nicht länger als 10 Jahre zurückliegenden Impfung verlangt. Andere Länder verlangen sogar, dass eine Impfung in den letzten 4-52 Wochen vor der Ausreise, erfolgte (allerdings erst bei einer Reisedauer von >4 Wochen). 
+Ich empfehle jedem nach Afrika oder Asien Reisendem eine solche Impfung. Oftmals muss eh Tetanus/Diphterie/Keuchhusten aufgefrischt werden - da kann man Polio gleich in einem Vierfachimpfstoff mitimpfen.
+Grundimmunisierung 3x. Dann 1. Auffrischung mit 11-16 Jahren. Dann alle 10 Jahre bei Risiko.",1
+null,null,null,null,long,"Von Insekten übertragene Erkrankungen
+ 
+Je nach Reiseort können eine Vielzahl von Erregern durch Stechmücken oder auch andere blutsaugende Insekten übertragen werden. Hierzu gehören Malaria, Gelbfieber, Dengue, Zika, Filarien, FSME, Leishmaniose, Chagas...  und viele mehr. Gegen einige dieser Erkrankungen kann man sich durch Impfungen schützen (zB Gelbfieber), gegen andere schützt man sich durch die Einnahme von Medikamenten (Malaria). In jedem Fall sinnvoll ist ein guter Mückenschutz. Dieser beinhaltet: 
+•	Schlafen unter mit Insektiziden imprägnierten Moskitonetzen.
+•	Die unbedeckte Haut mit mückenabweisenden Mitteln einreiben: DEET 30-50% oder Icaridin.
+•	Hautbedeckende, helle, imprägnierte Kleidung tragen.
+•	Sich in mückensicheren Räumen aufhalten.
+•	Insektizide Sprays oder Spiralen verwenden.
+•	Sich NICHT auf wenig oder gar nicht wirksame Mittel wie Amulette, Knoblauch oder sonstiges verlassen.
+Dengue
+Jährlich gibt es schätzungsweise 100 Millionen Fälle. Obwohl die Krankheit sehr unangenehm sein kann (wie ""Grippe"", nur heftiger) kommen Todesfälle durch Schock oder innere Blutungen vor allem bei Zweitinfektionen vor - also bei Menschen, die bereits eine Dengueinfektion hatten. Erst seit Kurzem gibt es einen Impfstoff. Langzeiterfahrungen bestehen deswegen hierzu noch nicht. Ich empfehle diese Impfung vor allem Leuten, die schon mal mit Dengue infiziert waren - oder bei sehr langen Aufenthalten (viele Monate).
+Impfschema: Er soll in 2 mal verabreicht werden - Abstand 3 Monate. Auch nach nur einer Impfung soll schon ein recht guter (80%) Schutz bestehen. ",2
+null,null,null,null,long,"Sexuell übertragene Erkrankungen
+ 
+Ich setzte voraus, dass gewusst ist, wie man sich hier schützen kann, wenn Abstinenz nicht in Frage kommt. Es sei erwähnt, dass es vor allem in Südostasien Gonokokkenstämme gibt, die mit allen üblichen Antibiotika nicht mehr zu behandeln sind!
+ 
+Zika
+Das Zika-Virus, welches mittlerweile in vielen Tropenländern vorkommt, und vor allem von Mücken übertragen wird, kann auch beim Sex übertragen werden. Beim Föten kann es zu schweren Fehlbildungen kommen. Männer können bis zu 3 Monate nach einer - oftmals unbemerkten Infektion - das Virus auf ihre Partnerin übertragen. Frauen können bis zu 2 Monate lang nach einer Infektion das Virus auf den Fötus übertragen. Sie sollten deswegen großen Wert auf eine konsequente Verhütung für diesen Zeitraum legen.
+ 
+Hepatitis B
+Diese Erkrankung ist eine der häufigsten Infektionskrankheiten weltweit. Sie führt oftmals zu Leberzirrhose, Leberzellkrebs und Tod. Am häufigsten ist sie in Afrika, Mongolei, China, Südostasien, Papua Neu-Guinea und Haiti. 
+Seit Langem werden alle Kinder in Deutschland geimpft - nach 3 Impfungen geht man in der Regel von einem lebenslangen Schutz aus.
+Sollten Sie die Impfung nicht haben würde ich diese vor allem empfehlen, wenn Tattoos, Piercings oder medizinische Eingriffe während Reisen in Länder mit hohem Risiko geplant sind.
+Unabhängig von Reisen finde ich es sinnvoll, diese Impfung zu haben.
+Für eine vernünftige Grundimmunisierung und somit brauchbaren Schutz braucht man üblicherweise 6 Monate, ein Schnellimpfschema ist innerhalb 3 Wochen durchführbar. Bei einem 2021 zugelassenen Impfstoff für Erwachsene reichen 2 Impfdosen (Abstand 4 Wochen). 
+ 
+ 
+ 
+ 
+Andere Erkrankungen, gegen die man sich mit Impfung schützen kann
+ 
+Tollwut
+Tollwut kann nur durch einen Biss von einem tollwütigen Tier übertragen werden. Nur Säugetiere können Tollwut haben - in 99% der Fälle sind es Hunde, die es übertragen. Gebissen werden Reisende jedoch auch nicht selten von Katzen oder Affen. Besondere Vorsicht ist bei Fledermäusen geboten - es sind die einzigen Tiere, die Tollwut haben (und übertragen) können, ohne daran zu sterben. Die Erkrankung, welche sich oftmals erst viele Wochen oder gar Monate nach einem Biss manifestiert, endet immer tödlich. Es gibt keine Therapie. Man kann sich aber nach einem Biss vor einer Ansteckung schützen, indem man die Wunde ausgiebig mit Wasser und Seife wäscht und desinfiziert. Dann sollte man schnellstmöglich impfen lassen (je nach Schema 4-5 Impfungen innerhalb von 2-4 Wochen) und Tollwutimmunglobulin in die Wunde (und intramuskulär) spritzen lassen. Die Tollwutimpfung ist jedoch nicht in allen Ländern verfügbar, die Immunglobuline noch seltener - Siehe Karte!
+Wer sich vor der Reise impfen lässt, hat möglicherweise bereits einen ausreichenden Schutz nach einem Biss. Dennoch werden sicherheitshalber noch 2 weitere Impfungen baldmöglichst nach dem Biss empfohlen (Tag 0 und 3). 
+Ob man sich impfen lassen soll hängt also, neben den persönlichen Vorlieben (einige müssen jede Katze oder Hund streicheln, andere weniger) vor allem davon ab, ob im Zielland eine sinnvolle Postexpositionsprophylaxe mit Impfung und Immunglobulinen möglich ist. Auch das Budget spielt eine Rolle, die Impfung ist nicht billig. Bei Leuten die regelmäßig oder viele Monate lang verreisen würde ich die Impfung eher empfehlen. 
+Impfschema: 3x innerhalb von 3 Wochen (WHO empfiehlt 2x innerhalb 7-21 Tagen).
+ 
+
+ 
+ 
+Influenza
+In den Tropen kann es ganzjährig zu Grippeausbrüchen kommen. Grippe macht Fieber - und Fieber soll in Tropenländer rasch medizinisch abgeklärt werden sollte, um gefährliche Infekte auszuschließen oder zu behandeln. Aufenthalte in Krankenhäusern bergen immer auch Risiken (nosokomiale Infektion, Besiedlung mit resistenten Keimen), mal abgesehen vom finanziellen und zeitlichen Aufwand. Desweiteren kann Menschen mit Fieber die Mitnahme in Bussen, Fliegern oder anderen Transportmitteln untersagt werden. So gesehen sollte man jede Möglichkeit nutzen, um Fieber zu vermeiden.
+Derzeit ist jedoch in Deutschland kein Impfstoff mit der von der WHO empfohlenen Stammanpassung für die Südhalbkugel zugelassen. Man kann sich auch vor Ort impfen lassen.
+Ich würde die Impfung vor allem dann empfehlen, wenn schwerwiegende Vorerkrankungen bestehen.
+Impfschema: 1x impfen - Schutz 1 Jahr. 
+ 
+ 
+Meningitis
+Diese bakterielle Hirnhautentzündung wird über Tröpfchen aus Mund oder Nase übertragen. Kinder und junge Erwachsene sind häufiger betroffen. Diese Erkrankung tritt weltweit auf und ist glücklicherweise selten. Sie ist in vielen tropischen Ländern jedoch etwas häufiger als bei uns. 
+Die Erkrankung kann sehr schnell sehr böse verlaufen und endet häufig mit dem Tod oder bleibenden neurologischen Schäden. Ich empfehle die Impfung jedem Reisenden, der engeren Kontakt zur Bevölkerung hat (Märkte, Konzerte, Familienbesuche) oder in medizinischen Einrichtungen oder Kindergärten arbeitet. 
+Dies gilt vor allem bei längeren Reisen wie der Ihren. ",3
+null,null,null,null,long,"Der tetravalente Impfstoff sollte mindestens 10 Tage vor Abreise einmalig verabreicht werden. Der Schutz hält 5 Jahre. 
+ 
+ 
+ 
+So eine Reise ist eine gute Gelegenheit zu prüfen, ob Impflücken von auch in Deutschland empfohlenen Impfungen bestehen - um diese dann gegebenenfalls zu schließen. 
+ 
+ 
+In Deutschland empfohlene Impfungen
+ 
+Tetanus, Diphtherie, Keuchhusten (und evtl. Polio)
+So sollte alle 10 Jahre die Kombinationsimpfung gegen Tetanus, Diphtherie und Keuchhusten aufgefrischt werden - je nach Reiseland (v.a. Afrika und Asien) am Besten gleich noch Polio dazu.
+Grundimmunisierung: 4 Impfungen, dann alle 10 Jahre.
+ 
+Mumps, Masern, Röteln
+Desweiteren sollte man sicherstellen, dass man als Kind entweder 2x gegen Mumps, Masern und Röteln (Kombi-Impfstoff) geimpft wurde - oder eine solche nachholen. Alle nach 1970 Geborenen mit unklarer Impfsituation, keiner oder nur einer Impfung: Nochmals impfen. 
+2 Impfungen = lebenslanger Schutz (nach einmaliger Impfung in den meisten Fällen ebenfalls)
+ 
+FSME
+Je nach Wohnort und Hobbies wird eine FSME-Impfung empfohlen. Wer viel draußen ist und öfters Zecken hat sollte sich unbedingt impfen lassen.
+Grundimmunisierung: 3x. Erstmalig nach 3, später alle 5-10 Jahre auffrischen.
+ 
+COVID
+Stand 10.2023. v.a. bei Erwachsenen empfohlen. 
+Grundimmunisierung 3x. Ältere Menschen (>60.) sowie Menschen mit verschiedenen Vorerkrankungen sollen sich alle 12 Monate auffrischen lassen.",4
+null,null,null,null,short,"Einige Menschen fahren Motorrad oder gehen Tauchen, weil es viel Spaß macht und unglaublich schön ist. Andere Menschen würden niemals Motorrad fahren oder Tauchen gehen, weil es gefährlich ist und Sie nicht alle Risiken dabei kontrollieren können. Beides ist richtig und nachvollziehbar! Bei Reise-Impfempfehlungen gibt es nicht immer richtig oder falsch – es gibt für Sie passend oder nicht!
+
+Bei einer derart kurzen Reise ist natürlich statistisch gesehen das Risiko einer Ansteckung, ganz gleich welcher Erkrankung, sicher sehr gering. 
+Dennoch sollten Sie über die im Folgenden kurz beschriebenen Erkrankungen Bescheid wissen. Dann haben Sie die notwendigen Informationen, um zu entscheiden, ob Sie Impfungen brauchen oder nicht. 
+ 
+ 
+ 
+ 
+Krankheiten die durch verunreinigte Speisen oder Wasser verursacht werden (fäkal-oral).
+ 
+Wenn Sie folgenden Vorsichtsmaßnahmen beachten, senken Sie das Risiko fäkal-oral übertragener Infektionen (zB. der häufigen Reisedurchfälle, einiger Wurmerkrankungen...): 
+•	Trinken Sie nur abgefülltes Wasser aus versiegelten Flaschen oder Wasser, das zuvor gekocht oder desinfiziert wurde.
+•	Vermeiden Sie Leitungswasser und Getränke mit Eiswürfeln, da diese aus ungefiltertem Wasser hergestellt sein könnten. 
+•	Essen Sie gut durchgekochte oder gebratene Speisen, die heiß serviert werden.
+•	Meiden Sie rohe oder halbrohe Lebensmittel wie Salate, ungekochtes Gemüse und unpasteurisierte Milchprodukte.
+•	Auch von rohem Fleisch und Meeresfrüchten eher Abstand halten. 
+•	Waschen Sie sich regelmäßig Ihre Hände mit Seife, insbesondere vor dem Essen und nach dem Toilettengang. 
+ 
+Hepatitis A
+Diese Erkrankung kommt fast weltweit vor - je tropischer desto häufiger. Sie führt bei Erwachsenen meistens nach 2-6 Wochen zu wochenlangem Fieber, Bauchschmerzen, Übelkeit, teilweise mit Gelbsucht, Erbrechen, Durchfall und starker Müdigkeit. Obwohl die meisten Leute danach wieder komplett gesund werden, kann das doch eine sehr unangenehme Zeit sein. V.a. Ältere oder Leuten mit vorbestehenden Leberkrankheiten können auch versterben. Da Hepatitis A zu den häufigsten Reisemitbringsel nach Tropenreisen gehört und die Impfung nahezu einen 100% Schutz gibt, empfehle ich diese Impfung eigentlich jedem Reisenden.
+1 Impfung = 1 Jahr Schutz. Wenn nach frühestens 6 Monaten nochmal geimpft wird = 25 Jahre Schutz.
+ 
+Typhus
+Einige Menschen scheiden diese Salmonellen mit dem Stuhl aus. Wenn dieser jetzt aufgrund mangelhaften Abwassermanagements auf dem Salatblatt landet, kann man sich anstecken. Typhus ist häufiger in Gegenden mit dichter Besiedlung und schwierigen sanitären Bedingungen. Hauptrisikogebiete sind Indien und Nachbarländer, Südostasien, Afrika (den Süden ausgenommen). Gerade in Indien und Umgebung gibt es zunehmend Salmonellenstämme, die gegen viele Antibiotika resistent sind und somit schwer zu behandeln. Die Erkrankung verläuft, meistens 1-5 Wochen nach Ansteckung, eher langsam. Zu hohem Fieber, Kopf- und Bauchschmerzen gesellt sich nach einigen Tagen oftmals Durchfall. Komplikationen wie ein Darmdurchbruch treten eher nach einer Woche oder noch später auf. Bei unzureichender oder zu spät begonnener Therapie kann die Erkrankung auch tödlich enden. Die Impfung hat leider eine nur mäßige Wirksamkeit von 50-70%.
+Bei solch kurzen Reisedauern würde ich die Impfung v.a. dann empfehlen, wenn Sie wegen Magenproblemen Säureblocker nehmen und nach Indien oder Nachbarländer verreisen.
+Der Totimpfstoff wird 1x intramuskulär verabreicht und schützt dann 2-3 Jahre lang. Der Lebendimpfstoff muss an den Tagen 1, 3 und 5. eingenommen werden.
+ 
+Cholera
+Diese bakterielle Erkrankung, welche sich durch starken Durchfall, teilweise mit Erbrechen äußert, befällt fast immer nur Einheimische, die darauf angewiesen sind, stark verschmutztes Wasser zu trinken. Reisende kommen kaum je in diese Situation. Die Impfung würde ich nur Medizinischem Personal in Choleraepidemiegebieten sowie Katastrophenhelfern empfehlen. 
+ 
+Polio = Kinderlähmung
+Meistens verläuft diese Krankheit ohne Symptome. Leider kann es aber auch, nach initial unspezifischen Symptomen im weiteren Verlauf zu irreversiblen Lähmungen kommen. Eine Therapie besteht nicht. Nachdem durch großangelegt Impfkampagnen die Krankheit fast ausgerottet werden konnte, ist die Situation nun kompliziert und verändert sich ständig. Der ursprüngliche Poliotyp kommt eigentlich derzeit (10.2023) nur noch In Pakistan, Afghanistan, Malawi und Mozambik vor. Allerdings zirkulieren mittlerweile in vielen Ländern Poliotypen, die von den oralen Impfviren abstammen - teilweise sogar in Großbritannien und den USA. Jedenfalls wird in einigen Ländern auch bei recht kurzen Aufenthalten wie Ihrem der Nachweis einer nicht länger als 10 Jahre zurückliegenden Impfung verlangt. Andere Länder verlangen sogar, dass eine Impfung in den letzten 4-52 Wochen vor der Ausreise, erfolgte (allerdings erst bei einer Reisedauer von >4 Wochen). 
+Ich empfehle jedem nach Afrika oder Asien Reisendem eine solche Impfung. Oftmals muss eh Tetanus/Diphterie/Keuchhusten aufgefrischt werden - da kann man Polio gleich in einem Vierfachimpfstoff mitimpfen.
+Grundimmunisierung 3x. Dann 1. Auffrischung mit 11-16 Jahren. Dann alle 10 Jahre bei Risiko.",1
+null,null,null,null,short,"Von Insekten übertragene Erkrankungen
+ 
+Je nach Reiseort können eine Vielzahl von Erregern durch Stechmücken oder auch andere blutsaugende Insekten übertragen werden. Hierzu gehören Malaria, Gelbfieber, Dengue, Zika, Filarien, FSME, Leishmaniose, Chagas...  und viele mehr. Gegen einige dieser Erkrankungen kann man sich durch Impfungen schützen (zB Gelbfieber), gegen andere schützt man sich durch die Einnahme von Medikamenten (Malaria). In jedem Fall sinnvoll ist ein guter Mückenschutz. Dieser beinhaltet: 
+•	Schlafen unter mit Insektiziden imprägnierten Moskitonetzen.
+•	Die unbedeckte Haut mit mückenabweisenden Mitteln einreiben: DEET 30-50% oder Icaridin.
+•	Hautbedeckende, helle, imprägnierte Kleidung tragen.
+•	Sich in mückensicheren Räumen aufhalten.
+•	Insektizide Sprays oder Spiralen verwenden.
+•	Sich NICHT auf wenig oder gar nicht wirksame Mittel wie Amulette, Knoblauch oder sonstiges verlassen.
+Dengue
+Jährlich gibt es schätzungsweise 100 Millionen Fälle. Obwohl die Krankheit sehr unangenehm sein kann (wie ""Grippe"", nur heftiger) kommen Todesfälle durch Schock oder innere Blutungen vor allem bei Zweitinfektionen vor - also bei Menschen, die bereits eine Dengueinfektion hatten. Erst seit Kurzem gibt es einen Impfstoff. Langzeiterfahrungen bestehen deswegen hierzu noch nicht. Ich empfehle diese Impfung vor allem Leuten, die schon mal mit Dengue infiziert waren - oder bei sehr langen Aufenthalten.
+Impfschema: Er soll in 2 mal verabreicht werden - Abstand 3 Monate. Auch nach nur einer Impfung soll schon ein recht guter (80%) Schutz bestehen. ",2
+null,null,null,null,short,"Sexuell übertragene Erkrankungen
+ 
+Ich setzte voraus, dass gewusst ist, wie man sich hier schützen kann, wenn Abstinenz nicht in Frage kommt. Es sei erwähnt, dass es vor allem in Südostasien Gonokokkenstämme gibt, die mit allen üblichen Antibiotika nicht mehr zu behandeln sind!
+ 
+Zika
+Das Zika-Virus, welches mittlerweile in vielen Tropenländern vorkommt, und vor allem von Mücken übertragen wird, kann auch beim Sex übertragen werden. Beim Föten kann es zu schweren Fehlbildungen kommen. Männer können bis zu 3 Monate nach einer - oftmals unbemerkten Infektion - das Virus auf ihre Partnerin übertragen. Frauen können bis zu 2 Monate lang nach einer Infektion das Virus auf den Fötus übertragen. Sie sollten deswegen großen Wert auf eine konsequente Verhütung für diesen Zeitraum legen.
+ 
+Hepatitis B
+Diese Erkrankung ist eine der häufigsten Infektionskrankheiten weltweit. Sie führt oftmals zu Leberzirrhose, Leberzellkrebs und Tod. Am häufigsten ist sie in Afrika, Mongolei, China, Südostasien, Papua Neu-Guinea und Haiti. 
+Seit Langem werden alle Kinder in Deutschland geimpft - nach 3 Impfungen geht man in der Regel von einem lebenslangen Schutz aus.
+Sollten Sie die Impfung nicht haben würde ich diese vor allem empfehlen, wenn Tattoos, Piercings oder medizinische Eingriffe während Reisen in Länder mit hohem Risiko geplant sind.
+Unabhängig von Reisen finde ich es sinnvoll, diese Impfung zu haben.
+Für eine vernünftige Grundimmunisierung und somit brauchbaren Schutz braucht man üblicherweise 6 Monate, ein Schnellimpfschema ist innerhalb 3 Wochen durchführbar. Bei einem 2021 zugelassenen Impfstoff für Erwachsene reichen 2 Impfdosen (Abstand 4 Wochen). 
+ 
+ 
+ 
+ 
+Andere Erkrankungen, gegen die man sich mit Impfung schützen kann
+ 
+Tollwut
+Tollwut kann nur durch einen Biss von einem tollwütigen Tier übertragen werden. Nur Säugetiere können Tollwut haben - in 99% der Fälle sind es Hunde, die es übertragen. Gebissen werden Reisende jedoch auch nicht selten von Katzen oder Affen. Besondere Vorsicht ist bei Fledermäusen geboten - es sind die einzigen Tiere, die Tollwut haben (und übertragen) können, ohne daran zu sterben. Die Erkrankung, welche sich oftmals erst viele Wochen oder gar Monate nach einem Biss manifestiert, endet immer tödlich. Es gibt keine Therapie. Man kann sich aber nach einem Biss vor einer Ansteckung schützen, indem man die Wunde ausgiebig mit Wasser und Seife wäscht und desinfiziert. Dann sollte man schnellstmöglich impfen lassen (je nach Schema 4-5 Impfungen innerhalb von 2-4 Wochen) und Tollwutimmunglobulin in die Wunde (und intramuskulär) spritzen lassen. Die Tollwutimpfung ist jedoch nicht in allen Ländern verfügbar, die Immunglobuline noch seltener - Siehe Karte!
+Wer sich vor der Reise impfen lässt, hat möglicherweise bereits einen ausreichenden Schutz nach einem Biss. Dennoch werden sicherheitshalber noch 2 weitere Impfungen baldmöglichst nach dem Biss empfohlen (Tag 0 und 3). 
+Ob man sich impfen lassen soll, hängt also, neben den persönlichen Vorlieben (einige müssen jede Katze oder Hund streicheln, andere weniger) vor allem davon ab, ob im Zielland eine sinnvolle Postexpositionsprophylaxe mit Impfung und Immunglobulinen möglich ist. Auch das Budget spielt eine Rolle, die Impfung ist nicht billig. Bei Leuten die regelmäßig verreisen würde ich die Impfung eher empfehlen. Für eine einmalige, sehr kurze Reise wie die Ihre, erscheint der Aufwand übertrieben. 
+Impfschema: 3x innerhalb von 3 Wochen (WHO empfiehlt 2x innerhalb 7-21 Tagen).
+ 
+
+ 
+ 
+Influenza
+In den Tropen kann es ganzjährig zu Grippeausbrüchen kommen. Grippe macht Fieber - und Fieber soll in Tropenländer rasch medizinisch abgeklärt werden sollte, um gefährliche Infekte auszuschließen oder zu behandeln. Aufenthalte in Krankenhäusern bergen immer auch Risiken (nosokomiale Infektion, Besiedlung mit resistenten Keimen), mal abgesehen vom finanziellen und zeitlichen Aufwand. Desweiteren kann Menschen mit Fieber die Mitnahme in Bussen, Fliegern oder anderen Transportmitteln untersagt werden. So gesehen sollte man jede Möglichkeit nutzen, um Fieber zu vermeiden.
+Derzeit ist jedoch in Deutschland kein Impfstoff mit der von der WHO empfohlenen Stammanpassung für die Südhalbkugel zugelassen. Man kann sich auch vor Ort impfen lassen.
+Ich würde die Impfung vor allem dann empfehlen, wenn schwerwiegende Vorerkrankungen bestehen.
+Impfschema: 1x impfen - Schutz 1 Jahr. 
+ 
+ 
+Meningitis
+Diese bakterielle Hirnhautentzündung wird über Tröpfchen aus Mund oder Nase übertragen. Kinder und junge Erwachsene sind häufiger betroffen. Diese Erkrankung tritt weltweit auf und ist glücklicherweise selten. Sie ist in vielen tropischen Ländern jedoch etwas häufiger als bei uns. 
+Die Erkrankung kann sehr schnell sehr böse verlaufen und endet häufig mit dem Tod oder bleibenden neurologischen Schäden. Ich empfehle die Impfung jedem Reisenden, der engeren Kontakt zur Bevölkerung hat (Märkte, Konzerte, Familienbesuche) oder in medizinischen Einrichtungen oder Kindergärten arbeitet. 
+Bei einem einwöchigen Strandurlaub im Senegal hingegen ist das Ansteckungsrisiko sicherlich als sehr gering anzusehen.",3
+null,null,null,null,short,"Der tetravalente Impfstoff sollte mindestens 10 Tage vor Abreise einmalig verabreicht werden. Der Schutz hält 5 Jahre. 
+ 
+ 
+ 
+So eine Reise ist eine gute Gelegenheit zu prüfen, ob Impflücken von auch in Deutschland empfohlenen Impfungen bestehen - um diese dann gegebenenfalls zu schließen. 
+ 
+ 
+In Deutschland empfohlene Impfungen
+ 
+Tetanus, Diphtherie, Keuchhusten (und evtl. Polio)
+So sollte alle 10 Jahre die Kombinationsimpfung gegen Tetanus, Diphtherie und Keuchhusten aufgefrischt werden - je nach Reiseland (v.a. Afrika und Asien) am Besten gleich noch Polio dazu.
+Grundimmunisierung: 4 Impfungen, dann alle 10 Jahre.
+ 
+Mumps, Masern, Röteln
+Desweiteren sollte man sicherstellen, dass man als Kind entweder 2x gegen Mumps, Masern und Röteln (Kombi-Impfstoff) geimpft wurde - oder eine solche nachholen. Alle nach 1970 Geborenen mit unklarer Impfsituation, keiner oder nur einer Impfung: Nochmals impfen. 
+2 Impfungen = lebenslanger Schutz (nach einmaliger Impfung in den meisten Fällen ebenfalls)
+ 
+FSME
+Je nach Wohnort und Hobbies wird eine FSME-Impfung empfohlen. Wer viel draußen ist und öfters Zecken hat sollte sich unbedingt impfen lassen.
+Grundimmunisierung: 3x. Erstmalig nach 3, später alle 5-10 Jahre auffrischen.
+ 
+COVID
+Stand 10.2023. v.a. bei Erwachsenen empfohlen. 
+Grundimmunisierung 3x. Ältere Menschen (>60.) sowie Menschen mit verschiedenen Vorerkrankungen sollen sich alle 12 Monate auffrischen lassen.",4

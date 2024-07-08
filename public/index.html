@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+
+    <title>Form</title>
+
+
+    <link rel="stylesheet" href="style.css">
+
+
+    <script type="text/javascript" src="PapaParse-5.0.2/papaparse.min.js"></script>
+
+
+</head>
+<body>
+
+    <div id="introduction">
+        <p>
+            Hier kriegen Sie gratis, kurz und knapp die notwendigen Informationen, um selbst entscheiden zu können, welche Impfungen Sie für Ihre Reise brauchen. Auch die Malaria wird besprochen.
+            Sie brauchen nur das Reiseland anzugeben und 3 Kästchen anzuklicken. 
+            Sie können dann selbst in Ihrem Impfpass prüfen, ob ein Schutz besteht.
+            Die Seite richtet sich an gesunde Reisende, die eine "normale" Tropenreise planen.
+            Bei Leuten mit Vorerkrankungen, Schwangeren, Kleinkindern oder bei ungewöhnlicheren Reisen (Weltreise, mehrmonatiges Praktikum in einer medizinischen Einrichtung...), empfehle ich eine persönliche Beratung.
+            Die Impfungen können wir in unserer Praxis durchführen.
+            Sollten Sie aus dem Impfpass nicht schlau werden, kann ich den gegen eine Gebühr durchschauen. 
+            Falls Sie eine Beratung wünschen, buchen Sie bitte einen Termin online.  
+        </p>
+    </div>
+
+    <div id="formContainer">
+        <form>
+
+            <label for="countryInput">Where are you going?</label>
+            <select id="countryInput" name="countryInput" required>
+                <option value="" disabled selected>Select a country</option>
+            </select><br>
+
+            <label for="lengthOfStay">For how many days?</label>
+            <input id="lengthOfStay" type="number" name="lengthOfStay" required><br>
+
+            <label for="age">Age?</label>
+            <input id="age" type="Number" name="age" required><br>
+
+            <label for="isPregnant">Are you pregnant or planning to be?</label>
+            <input id="isPregnant" type="checkbox" name="isPregnant"><br>
+
+            <button id="submitBtn" type="submit">Submit</button>
+            
+            <p id="result"></p>
+
+            <p id="final-words">
+                Man reist nicht, um anzukommen, sondern um zu reisen.   (J.W.Goethe)
+                It is better to travel well than to arrive.   (Buddha)
+                Ich wünsche Ihnen eine schöne Reise und gesunde Rückkehr!  (Dr. C. Walentiny)
+                Road trippin´with my two favorite allies. Fully loaded, we got snacks and supplies. It´s time to leave this town. It´s time to steal away. Let´s go get lost anywhere in the USA. Let´s go get lost.  Let´s go get lost.  (Red Hot Chili Peppers)
+                Not all those who wander are lost.   (JRR Tolkien)
+                Take only memories, leave only footprints.   (Chief Seattle)
+            </p>
+
+            <p id="short-version"></p>
+
+
+
+        </form>
+
+    </div>
+
+
+    <a href="detailed.html">Get more detailed information</a>
+
+
+
+    <script type="module" src="././appWithFilterLogic.js"></script>
+
+</body>
+</html>

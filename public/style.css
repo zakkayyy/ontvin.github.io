@@ -1,0 +1,97 @@
+body{
+    text-align: center;
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: hsl(0, 0%, 23%);
+}
+
+form {
+    display: block;
+    background-color: hsl(0, 0%, 23%);
+    text-align: center;
+    color: white;
+}
+
+input, select, button {
+    background-color:hsl(0, 0%, 55%);
+    font-size: 1.5em;
+    border: 1px solid hsl(184, 100%, 50%);
+    border-radius: 10px;
+    margin: 15px;
+}
+
+#submitBtn {
+    background-color: hsl(0, 0%, 55%);
+    font-size: 2em;
+    border-radius: 10px;
+}
+
+#introduction {
+    width: fit-content;
+    height: fit-content;
+    color: white;
+    background-color: hsl(0, 0%, 63%);
+}
+
+#introduction pre {
+    text-align: left;
+
+    color: white;
+    visibility: visible;
+
+}
+
+#result {
+    text-align: left;
+    padding: 15px;
+    visibility: hidden;
+    color: white;
+    border: 1px solid hsl(184, 100%, 50%);
+    border-radius: 10px;
+    min-height: 25vh;
+    max-height: auto;
+    width: 50vw;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#final-words {
+    text-align: center;
+    padding: 15px;
+    visibility: hidden;
+    color: white;
+    border: 1px solid hsl(184, 100%, 50%);
+    border-radius: 10px;
+    min-height: 25vh;
+    max-height: auto;
+    width: 50vw;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#formContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#result-long {
+    text-align: left;
+    padding: 15px;
+    visibility: hidden;
+    color: white;
+    border: 1px solid hsl(184, 100%, 50%);
+    border-radius: 10px;
+    min-height: 25vh;
+    max-height: auto;
+    width: 50vw;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
