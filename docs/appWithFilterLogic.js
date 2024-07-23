@@ -107,19 +107,30 @@ function logVaccinesForCountry(countryName, vaccineTable) {
 
 function populateCountryOptions(csvData) {
     const selectElement = document.getElementById("countryInput");
+    selectElement.innerHTML = '';
+    
 
 
+    const placeholder = document.createElement("option");
+    placeholder.value = "";
+    placeholder.textContent = "Where are you going";
+    placeholder.disabled = true;
+    placeholder.selected = true;
+    placeholder.classList.add("placeholderForCountryInput");
+    placeholder.classList.add("placeholderClass");
+    placeholder.style.color = "rgb(250, 0, 50)";
+
+    selectElement.appendChild(placeholder);
+    // console.log(placeholder.className);
     
-        selectElement.innerHTML = '';
     
-    
+    csvData.sort((a, b) => a.Land.localeCompare(b.Land));
 
     csvData.forEach(country => {
         const option = document.createElement("option");
         
-            option.textContent = country.Land;
-
-        
+        option.textContent = country.Land;
+        option.style.color = "hsl(50, 0%, 50%)";
         selectElement.appendChild(option);
     });
 }

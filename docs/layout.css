@@ -1,0 +1,66 @@
+body {
+    display: grid;
+    grid-template-columns: repeat(5, 20vw);
+    grid-template-rows: repeat(5, 20vh);
+
+    text-align: center;
+    height: 100%;
+    font-family: Ubuntu, "SF Pro Text", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: hsl(0, 0%, 90%);
+}
+
+#introduction {
+    grid-column-start: 1;
+    grid-column-end: 6;
+    grid-row: 1/2;
+    text-align: center;
+    background-color: bisque;
+}
+
+#formContainer {
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row: 2/ 4;
+    background-color: aliceblue;
+}
+
+.placeholderForCountryInput {
+    color: rgb(0, 204, 255);
+}
+
+.formInputBoxes {
+    box-sizing: border-box;
+    background-color: hsl(0, 0%, 95%);
+
+    width: 50%;
+    height: 5vh;
+    border-radius: 10px;
+    border-width: 1px;
+    margin: 1vh;
+}
+
+.formInputBoxes:hover {
+    background-color: hsl(0, 0%, 97%);
+
+}
+
+#linkContainer {
+    grid-row-start: 4;
+    grid-row-end: 5;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+
+#finalWordsContainer {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-column-start: 2;
+    grid-column-end: 5;
+}
+
+#final-words-paragraph {
+    grid-column-start: 2;
+    grid-column-end: 6;
+    text-align: left;
+}

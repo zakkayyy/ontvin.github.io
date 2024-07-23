@@ -8,7 +8,7 @@
     <title>Form</title>
 
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="layout.css">
 
 
     <script type="text/javascript" src="PapaParse-5.0.2/papaparse.min.js"></script>
@@ -30,19 +30,29 @@
         </p>
     </div>
 
+    <nav id="hamnav">
+        <!-- <img id="hamburger-icon" src="hamburger-icon.png" alt="Hamburger Icon"> -->
+        <div id="hamitems">
+          <a href="a.html">First</a>
+          <a href="b.html">Second</a>
+          <a href="c.html">Third</a>
+          <a href="d.html">Forth</a>
+        </div>
+      </nav>
+
     <div id="formContainer">
         <form>
 
-            <label for="countryInput">Where are you going?</label>
-            <select id="countryInput" name="countryInput" required>
-                <option value="" disabled selected>Select a country</option>
+            <!-- <label for="countryInput">Where are you going?</label> -->
+            <select id="countryInput" class="formInputBoxes" name="countryInput" required>
+                <!-- <option value="" disabled selected>Select a country</option> -->
             </select><br>
 
-            <label for="lengthOfStay">For how many days?</label>
-            <input id="lengthOfStay" type="number" name="lengthOfStay" required><br>
+            <!-- <label for="lengthOfStay">For how many days?</label> -->
+            <input id="lengthOfStay" class="formInputBoxes" type="number" name="lengthOfStay" placeholder="For how many days?" required><br>
 
-            <label for="age">Age?</label>
-            <input id="age" type="Number" name="age" required><br>
+            <!-- <label for="age">Age?</label> -->
+            <input id="age" class="formInputBoxes" type="Number" name="age" placeholder="Age?" required><br>
 
             <label for="isPregnant">Are you pregnant or planning to be?</label>
             <input id="isPregnant" type="checkbox" name="isPregnant"><br>
@@ -51,25 +61,35 @@
             
             <p id="result"></p>
 
-            <p id="final-words">
-                Man reist nicht, um anzukommen, sondern um zu reisen.   (J.W.Goethe)
-                It is better to travel well than to arrive.   (Buddha)
-                Ich wünsche Ihnen eine schöne Reise und gesunde Rückkehr!  (Dr. C. Walentiny)
-                Road trippin´with my two favorite allies. Fully loaded, we got snacks and supplies. It´s time to leave this town. It´s time to steal away. Let´s go get lost anywhere in the USA. Let´s go get lost.  Let´s go get lost.  (Red Hot Chili Peppers)
-                Not all those who wander are lost.   (JRR Tolkien)
-                Take only memories, leave only footprints.   (Chief Seattle)
-            </p>
+
+
 
             <p id="short-version"></p>
 
-
-
         </form>
-
     </div>
 
+    <div id="finalWordsContainer">
+        <pre id="final-words-paragraph">
+Man reist nicht, um anzukommen, sondern um zu reisen.   (J.W.Goethe)
 
-    <a href="detailed.html">Get more detailed information</a>
+It is better to travel well than to arrive.   (Buddha)
+
+Ich wünsche Ihnen eine schöne Reise und gesunde Rückkehr!  (Dr. C. Walentiny)
+
+Road trippin´with my two favorite allies. Fully loaded, we got snacks and supplies. 
+It´s time to leave this town. It´s time to steal away. Let´s go get lost anywhere in the USA. 
+Let´s go get lost.  Let´s go get lost.  (Red Hot Chili Peppers)
+
+Not all those who wander are lost.   (JRR Tolkien)
+
+Take only memories, leave only footprints.   (Chief Seattle)
+        </pre>
+    </div>
+
+    <div id="linkContainer">
+        <a href="detailed.html">Get more detailed information</a>
+    </div>
 
 
 

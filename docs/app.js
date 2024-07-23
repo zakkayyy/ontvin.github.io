@@ -204,14 +204,30 @@ function logVaccinesForCountry(countryName, vaccineTable) {
 
 function populateCountryOptions(csvData) {
     const selectElement = document.getElementById("countryInput");
-
     selectElement.innerHTML = '';
 
+    console.log("sorted csv data");
+
+    const placeholder = document.createElement("option");
+    placeholder.value = "";
+    placeholder.textContent = "Where are you going";
+    placeholder.disabled = true;
+    placeholder.selected = true;
+    selectElement.appendChild(placeholder);
+
+
+
+    csvData.sort((a, b) => a.Land.localeCompare(b.Land));
+            console.log("Sorted csvData:", csvData);
+
+            
     csvData.forEach(country => {
         const option = document.createElement("option");
         option.textContent = country.Land;
         selectElement.appendChild(option);
     });
+
+
 }
 
 

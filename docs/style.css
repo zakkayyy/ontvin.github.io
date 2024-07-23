@@ -1,9 +1,32 @@
 body{
     text-align: center;
     height: 100%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Ubuntu, "SF Pro Text", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: hsl(0, 0%, 23%);
+
+    display: grid;
+    grid-template-columns: repeat(5, 100px);
 }
+
+
+
+#hamnav {
+    background-image: url("hamburger-icon.png");
+    background-size:contain;
+    height: 75px;
+    background-repeat:no-repeat;
+
+    display: grid;
+    grid-column: 1;
+}
+#hamitems {
+    visibility: hidden;
+}
+#hamnav:hover > #hamitems{
+    visibility: visible;
+}
+
+
 
 form {
     display: block;
@@ -31,6 +54,7 @@ input, select, button {
     height: fit-content;
     color: white;
     background-color: hsl(0, 0%, 63%);
+    grid-column: 1, 5;
 }
 
 #introduction pre {
