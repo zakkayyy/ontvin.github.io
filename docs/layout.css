@@ -21,8 +21,28 @@ body {
     grid-column-start: 2;
     grid-column-end: 5;
     grid-row: 2/ 4;
-    background-color: aliceblue;
 }
+
+#actualForm {
+    display: grid;
+    grid-gap: 10px;
+    height: 100%;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    	
+    margin-top: 10%;
+    background-color: aliceblue;
+
+}
+
+
+
+
+#result {
+
+}
+
+
 
 .placeholderForCountryInput {
     color: rgb(0, 204, 255);
@@ -35,8 +55,8 @@ body {
     width: 50%;
     height: 5vh;
     border-radius: 10px;
-    border-width: 1px;
-    margin: 1vh;
+    border: solid 1px #ccc;
+    margin: auto;   
 }
 
 .formInputBoxes:hover {
@@ -44,12 +64,42 @@ body {
 
 }
 
+#lengthOfStay {
+    box-sizing: border-box;
+    justify-self: center;
+    grid-column-start: 3;
+    grid-row-start: 1;
+    width: 100%;
+    height: 20%;
+}
+
+#age {
+    box-sizing: border-box;
+    justify-self: center;
+    grid-column-start: 4;
+    grid-row-start: 1;
+    width: 100%;
+    height: 20%;
+
+}
+
+#submitbtm {
+    	
+}
+
+
 #linkContainer {
+    border: 1px solid #ccc;
+    height: fit-content;
+    width: fit-content;
+
+
     grid-row-start: 4;
     grid-row-end: 5;
     grid-column-start: 3;
     grid-column-end: 4;
 }
+
 
 
 #finalWordsContainer {
@@ -63,4 +113,157 @@ body {
     grid-column-start: 2;
     grid-column-end: 6;
     text-align: left;
+}
+
+
+
+
+
+#options-container {
+    position: absolute;
+    width: 100%;
+    
+    top: 100%;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    max-height: 150px;
+    overflow-y: auto;
+    z-index: 10;
+}
+
+#options-container div {
+    padding: 10px;
+    text-align: left;
+
+    cursor: pointer;
+}
+
+#options-container div:hover {
+    background-color: hsl(0, 0%, 90%);
+}
+
+.hidden {
+    display: none;
+}
+
+
+#custom-select-container {
+    position: relative;
+    
+    box-sizing: border-box;
+    
+    width: 100%; /* Adjust as needed */
+    height:fit-content;
+
+    margin-top: 5%;
+
+     /* Match margin of formInputBoxes */
+
+
+    grid-column-start: 3;
+    grid-column-end: 5;
+
+    grid-row-start: 1;
+}
+
+#custom-select {
+    position: relative;
+
+    background-color: hsl(0, 0%, 95%);
+    border: 1px solid #ccc;
+    border-radius: 10px; /* Match border-radius of formInputBoxes */
+    cursor: pointer;
+    box-sizing: border-box; /* Match box-sizing of formInputBoxes */
+    height: 5vh; /* Match height of formInputBoxes */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%; /* Make it the same width as .formInputBoxes */
+    grid-column: span 2;
+    grid-column-start: 2
+}
+
+#selected-option {
+    padding: 1%;    
+    text-align: left;
+
+    color: #907979; /* Light grey color */
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+#pregnancy-options-container {
+    position: absolute;
+    width: 100%;
+    
+    top: 100%;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    max-height: 150px;
+    overflow-y: auto;
+    z-index: 10;
+    
+}
+
+#pregnancy-options-container div {
+    padding: 10px;
+    cursor: pointer;
+
+    text-align: left;
+
+}
+
+#pregnancy-options-container div:hover {
+    background-color: hsl(0, 0%, 90%);
+}
+
+#pregnancy-select-container {
+    position: relative;
+
+
+    box-sizing: border-box;
+    
+    width: 100%; /* Adjust as needed */
+    margin-bottom: 5%; /* Match margin of formInputBoxes */
+
+    grid-column-start: 3;
+    grid-column-end: 5;
+
+    grid-row-start: 1;
+
+
+    align-self: end;
+
+}
+
+#pregnancy-select {
+    background-color: hsl(0, 0%, 95%);
+    border: 1px solid #ccc;
+    border-radius: 10px; /* Match border-radius of formInputBoxes */
+    cursor: pointer;
+    box-sizing: border-box; /* Match box-sizing of formInputBoxes */
+    height: 5vh; /* Match height of formInputBoxes */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%; /* Make it the same width as .formInputBoxes */
+    grid-column: span 2;
+    grid-column-start: 2
+}
+
+#selected-pregnancy-option {
+    padding: 1%;
+    text-align: left;
+
+    color: #907979; /* Light grey color */
+    width: 100%;
 }

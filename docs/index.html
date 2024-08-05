@@ -41,21 +41,38 @@
       </nav>
 
     <div id="formContainer">
-        <form>
+        <form id="actualForm">
 
-            <!-- <label for="countryInput">Where are you going?</label> -->
-            <select id="countryInput" class="formInputBoxes" name="countryInput" required>
-                <!-- <option value="" disabled selected>Select a country</option> -->
-            </select><br>
+
+            <div id="custom-select-container">
+                <div id="custom-select">
+                    <div id="selected-option">Where are you going</div>
+                    <div id="options-container" class="hidden">
+                        <!-- Options will be dynamically added here -->
+                    </div>
+                </div>
+            </div>
+
 
             <!-- <label for="lengthOfStay">For how many days?</label> -->
-            <input id="lengthOfStay" class="formInputBoxes" type="number" name="lengthOfStay" placeholder="For how many days?" required><br>
+            <input id="lengthOfStay" class="formInputBoxes" type="number" name="lengthOfStay" placeholder="Length of Stay" required><br>
 
             <!-- <label for="age">Age?</label> -->
             <input id="age" class="formInputBoxes" type="Number" name="age" placeholder="Age?" required><br>
 
-            <label for="isPregnant">Are you pregnant or planning to be?</label>
-            <input id="isPregnant" type="checkbox" name="isPregnant"><br>
+
+            <div id="pregnancy-select-container">
+                <div id="pregnancy-select">
+                    <div id="selected-pregnancy-option">Pregnant or intend to be?</div>
+                    <div id="pregnancy-options-container" class="hidden">
+                        <div>pregnant/intend to be</div>
+                        <div>Not pregnant</div>
+                    </div>
+                </div>
+            </div>
+
+           <!-- <label for="isPregnant">Are you pregnant or planning to be?</label>
+            <input id="isPregnant" type="checkbox" name="isPregnant"><br>-->
 
             <button id="submitBtn" type="submit">Submit</button>
             
@@ -63,8 +80,6 @@
 
 
 
-
-            <p id="short-version"></p>
 
         </form>
     </div>

@@ -2,6 +2,35 @@ window.addEventListener("DOMContentLoaded",localStorage.clear());
 
 
 
+
+
+
+window.addEventListener("DOMContentLoaded", localStorage.clear());
+
+// Toggle the visibility of the options container when the selected option is clicked
+document.getElementById("selected-pregnancy-option").addEventListener("click", () => {
+    document.getElementById("pregnancy-options-container").classList.toggle("hidden");
+});
+
+// Add an event listener to hide the options when clicking outside of the custom select
+window.addEventListener("click", (event) => {
+    const customSelect = document.getElementById("pregnancy-select");
+    if (!customSelect.contains(event.target)) {
+        document.getElementById("pregnancy-options-container").classList.add("hidden");
+    }
+});
+
+// Add event listener to each pregnancy option
+document.querySelectorAll("#pregnancy-options-container > div").forEach(option => {
+    option.addEventListener("click", () => {
+        document.getElementById("selected-pregnancy-option").textContent = option.textContent;
+        document.getElementById("pregnancy-options-container").classList.add("hidden");
+        document.getElementById("selected-pregnancy-option").style.color = "hsl(0, 0%, 10%)"; // Change color to black when selected
+    });
+});
+
+
+
 Papa.parse("./countries_info.csv", {
     download: true,
     header: true,
@@ -18,7 +47,7 @@ Papa.parse("./countries_info.csv", {
         const form = document.querySelector('form');
         const shortResultParagraph = document.getElementById('result');
         const finalWords = document.getElementById("final-words");
-        const shortVersion = document.getElementById("short-version");
+        //const shortVersion = document.getElementById("short-version");
 
 
         //detailed.html
@@ -34,10 +63,15 @@ Papa.parse("./countries_info.csv", {
             event.preventDefault();
             console.clear();
 
-            const countryInput = document.getElementById("countryInput").value;
+            const countryInput = document.getElementById("selected-option").textContent;
             const lengthOfStay = document.getElementById("lengthOfStay").value;
             const age = document.getElementById("age").value;
-            const isPregnant = document.getElementById("isPregnant").checked;
+
+
+                        // Determine pregnancy status based on the selected pregnancy option
+            const selectedPregnancyOption = document.getElementById("selected-pregnancy-option").textContent;
+            const isPregnant = selectedPregnancyOption === "pregnant/intend to be";
+            
 
             let patientType = age < 16 ? "child" : (age >= 60 ? "senior" : "adult");
             let ageCategory = age < 16 ? "child" : (age >= 60 ? "senior" : "adult");
@@ -70,6 +104,8 @@ Your stay is: ${duration}
             `);
 
         });
+        console.log(typeof(isPregnant));
+
     }
 });
 
@@ -105,35 +141,76 @@ function logVaccinesForCountry(countryName, vaccineTable) {
 
 
 
+// function populateCountryOptions(csvData) {
+//     const selectElement = document.getElementById("countryInput");
+//     selectElement.innerHTML = '';
+    
+
+
+//     const placeholder = document.createElement("option");
+//     placeholder.value = "";
+//     placeholder.textContent = "Where are you going";
+//     placeholder.disabled = true;
+//     placeholder.selected = true;
+//     placeholder.classList.add("placeholderForCountryInput");
+//     placeholder.classList.add("placeholderClass");
+//     placeholder.style.color = "rgb(250, 0, 50)";
+
+//     selectElement.appendChild(placeholder);
+//     // console.log(placeholder.className);
+    
+    
+//     csvData.sort((a, b) => a.Land.localeCompare(b.Land));
+
+//     csvData.forEach(country => {
+//         const option = document.createElement("option");
+        
+//         option.textContent = country.Land;
+//         option.style.color = "hsl(50, 0%, 50%)";
+//         selectElement.appendChild(option);
+//     });
+// }
+
+
 function populateCountryOptions(csvData) {
-    const selectElement = document.getElementById("countryInput");
-    selectElement.innerHTML = '';
+    const optionsContainer = document.getElementById("options-container");
+    const selectedOption = document.getElementById("selected-option");
     
+    // Clear any existing options
+    optionsContainer.innerHTML = '';
 
-
-    const placeholder = document.createElement("option");
-    placeholder.value = "";
-    placeholder.textContent = "Where are you going";
-    placeholder.disabled = true;
-    placeholder.selected = true;
-    placeholder.classList.add("placeholderForCountryInput");
-    placeholder.classList.add("placeholderClass");
-    placeholder.style.color = "rgb(250, 0, 50)";
-
-    selectElement.appendChild(placeholder);
-    // console.log(placeholder.className);
-    
-    
+    // Sort CSV data by country name
     csvData.sort((a, b) => a.Land.localeCompare(b.Land));
 
+    // Add each country as an option
     csvData.forEach(country => {
-        const option = document.createElement("option");
-        
-        option.textContent = country.Land;
-        option.style.color = "hsl(50, 0%, 50%)";
-        selectElement.appendChild(option);
+        const optionDiv = document.createElement("div");
+        optionDiv.textContent = country.Land;
+        // optionDiv.classList.add("formInputBoxes");
+        optionDiv.addEventListener("click", () => {
+            selectedOption.textContent = country.Land;
+            optionsContainer.classList.add("hidden");
+            selectedOption.style.color = "hsl(0, 0%, 10%)"; // Change color to black when selected
+        });
+        optionsContainer.appendChild(optionDiv);
     });
 }
+
+// Toggle the visibility of the options container when the selected option is clicked
+document.getElementById("selected-option").addEventListener("click", () => {
+    document.getElementById("options-container").classList.toggle("hidden");
+});
+
+
+
+
+// Add an event listener to hide the options when clicking outside of the custom select
+window.addEventListener("click", (event) => {
+    const customSelect = document.getElementById("custom-select");
+    if (!customSelect.contains(event.target)) {
+        document.getElementById("options-container").classList.add("hidden");
+    }
+});
 
 function getContinent(countryName, vaccineTable) {
     for (let i = 0; i < vaccineTable.length; i++) {
