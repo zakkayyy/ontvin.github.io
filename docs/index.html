@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="UTF-8">
 
     <title>Form</title>
 
 
-    <link rel="stylesheet" href="layout.css">
+    <link rel="stylesheet" href="new_layout.css">
 
 
     <script type="text/javascript" src="PapaParse-5.0.2/papaparse.min.js"></script>
@@ -30,53 +29,66 @@
         </p>
     </div>
 
+
+
+
+    <div id="sideCardLeft" class="sideCards"></div>
+    <div id="sideCardRight" class="sideCards"></div>
+
+
+
     <nav id="hamnav">
         <!-- <img id="hamburger-icon" src="hamburger-icon.png" alt="Hamburger Icon"> -->
         <div id="hamitems">
-          <a href="a.html">First</a>
-          <a href="b.html">Second</a>
-          <a href="c.html">Third</a>
-          <a href="d.html">Forth</a>
+          <a href="a.html">Duo</a>
+          <a href="b.html">Tre</a>
+          <a href="c.html">Qautro</a>
+          <a href="d.html">Cinque</a>
         </div>
       </nav>
 
     <div id="formContainer">
         <form id="actualForm">
 
+            <div id="formInputs">
 
-            <div id="custom-select-container">
-                <div id="custom-select">
-                    <div id="selected-option">Where are you going</div>
-                    <div id="options-container" class="hidden">
-                        <!-- Options will be dynamically added here -->
+                <div id="custom-select-container">
+                    <div id="custom-select">
+                        <div id="selected-option">Destination</div>
+                        <div id="options-container" class="hidden">
+                            <!-- Options will be dynamically added here -->
+                        </div>
                     </div>
                 </div>
-            </div>
 
 
-            <!-- <label for="lengthOfStay">For how many days?</label> -->
-            <input id="lengthOfStay" class="formInputBoxes" type="number" name="lengthOfStay" placeholder="Length of Stay" required><br>
+                <!-- <label for="lengthOfStay">For how many days?</label> -->
+                <input id="lengthOfStay" class="formInputBoxes" type="number" name="lengthOfStay" placeholder="Length of Stay" required><br>
 
-            <!-- <label for="age">Age?</label> -->
-            <input id="age" class="formInputBoxes" type="Number" name="age" placeholder="Age?" required><br>
+                <!-- <label for="age">Age?</label> -->
+                <input id="age" class="formInputBoxes" type="Number" name="age" placeholder="Age" required><br>
 
 
-            <div id="pregnancy-select-container">
-                <div id="pregnancy-select">
-                    <div id="selected-pregnancy-option">Pregnant or intend to be?</div>
-                    <div id="pregnancy-options-container" class="hidden">
-                        <div>pregnant/intend to be</div>
-                        <div>Not pregnant</div>
+                <div id="pregnancy-select-container">
+                    <div id="pregnancy-select">
+                        <div id="selected-pregnancy-option">Pregnancy status</div>
+                        <div id="pregnancy-options-container" class="hidden">
+                            <div>pregnant/intend to be</div>
+                            <div>Not pregnant</div>
+                        </div>
                     </div>
                 </div>
+
+            <!-- <label for="isPregnant">Are you pregnant or planning to be?</label>
+                <input id="isPregnant" type="checkbox" name="isPregnant"><br>-->
+
+                <button id="submitBtn" type="submit">Submit</button>
             </div>
 
-           <!-- <label for="isPregnant">Are you pregnant or planning to be?</label>
-            <input id="isPregnant" type="checkbox" name="isPregnant"><br>-->
-
-            <button id="submitBtn" type="submit">Submit</button>
+            <div id="resultsDivContainer">
+                <p id="result"></p>
+            </div>
             
-            <p id="result"></p>
 
 
 
@@ -84,7 +96,12 @@
         </form>
     </div>
 
-    <div id="finalWordsContainer">
+
+    
+
+
+
+    <!-- <div id="finalWordsContainer">
         <pre id="final-words-paragraph">
 Man reist nicht, um anzukommen, sondern um zu reisen.   (J.W.Goethe)
 
@@ -98,13 +115,15 @@ Let´s go get lost.  Let´s go get lost.  (Red Hot Chili Peppers)
 
 Not all those who wander are lost.   (JRR Tolkien)
 
+
+(C.S Lewis) Are slippers on our feet strech out toward the blaze, when the whole world and somthing bezond the world opens its self to our minds as we speak and all men are equals as if they had first met an our ago. Efections mellowed by the years unfolds us, life, natural life has no better gift.
+(J.R.R Tolkein)  Bitches be crazy
+
 Take only memories, leave only footprints.   (Chief Seattle)
         </pre>
-    </div>
+    </div> -->
 
-    <div id="linkContainer">
-        <a href="detailed.html">Get more detailed information</a>
-    </div>
+
 
 
 

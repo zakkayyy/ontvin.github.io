@@ -1,131 +1,164 @@
-body {
-    display: grid;
-    grid-template-columns: repeat(5, 20vw);
-    grid-template-rows: repeat(5, 20vh);
 
-    text-align: center;
-    height: 100%;
-    font-family: Ubuntu, "SF Pro Text", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background-color: hsl(0, 0%, 90%);
+
+body {
+    background-color: white;
+    background-image: ;
+    margin: 0;
 }
 
 #introduction {
-    grid-column-start: 1;
-    grid-column-end: 6;
-    grid-row: 1/2;
-    text-align: left;
-    background-color: bisque;
-    padding: 1%;
+    background-color: #907979;
+    margin: 0.5vw;
+    margin-bottom: 0px;
+
 }
+#introduction p {
+    margin: 0.5vw;
+    margin-bottom: 0px;
+}
+
+
+#hamnav {
+    display: none;
+}
+
+
+.sideCards {
+    background-color: blue;
+    margin: 0;
+    height: 100vh;
+    width: 20vw;
+}
+
+#sideCardRight {
+    position: relative;
+    float: right;
+
+    background-image: url("waterRoughSideImage.jpg");
+
+}
+
+#sideCardLeft {
+    position: relative;
+    float: left;
+
+    background-image: url("beachWaveSideImage.jpg");
+}
+
+
 
 
 #formContainer {
-    grid-column-start: 2;
-    grid-column-end: 5;
-    grid-row: 2/ 4;
+    box-sizing: border-box;
+    background-color: white;
+
+    margin: auto;
+
+    padding: 5%;
+    padding-bottom: 0;
+
+    width: 60%;
 }
 
 #actualForm {
-    display: grid;
-    column-gap: 10px;
-    height: 100%;
-    grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(2, 1fr);
-    	
-    margin-top: 10%;
+    position: relative;
+    background-color: white;
+    width: 50%;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+
+    padding: 2%;
+
+
+    max-height: 90vh;
+
+    
+
+    justify-content: space-between;
+
+    border-radius: 20px;
+
+    -webkit-box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
+}
+
+#formInputs {
+    background-color: white;
+    width: 100%;
+    
+    position: sticky;
+    top: 0;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    margin: 0px;
+    padding: 0px;
+
+    justify-content: space-between;
+}
+
+
+
+#lengthOfStay, #age {
+    box-sizing: border-box;
+
+    width: 49%;
+    height: 5vh;
+
+    margin: 1% 0%;
+
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+#lengthOfStay:hover, #age:hover {
+    background-color: hsl(0, 0%, 99%);
+}
+
+#lengthOfStay {
+    margin-right: 1%;
+}
+#age {
+    margin-left: 1%;
+}
+
+#submitBtn {
+    width: 100%;
+    height: 5vh;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+
+    background-color: hsl(334, 100%, 45%) !important;
 }
 
 
 #result {
-    grid-row: 3;
-    grid-column: 1/7;
-
-    height: fit-content;
 }
-
-
-.placeholderForCountryInput {
-    color: rgb(0, 204, 255);
-}
-
-.formInputBoxes {
-    box-sizing: border-box;
-    background-color: hsl(0, 0%, 95%);
-
-    width: 50%;
-    height: 5vh;
-    border-radius: 10px;
-    border: solid 1px #ccc;
-    margin: auto;   
-}
-
-.formInputBoxes:hover {
-    background-color: hsl(0, 0%, 97%);
-
-}
-
-#lengthOfStay {
-    box-sizing: border-box;
-    justify-self: center;
-    grid-column-start: 3;
-    grid-row-start: 1;
-    width: 100%;
-    height: 5vh;
-
-}
-
-#age {
-    box-sizing: border-box;
-    justify-self: center;
-    grid-column-start: 4;
-    grid-row-start: 1;
-    width: 100%;
-    height: 5vh;
-
-}
-
-#submitBtn {
-    all: unset;
-    grid-row: 2;
-    grid-column: 3/4;
-    height: 5vh;
-
-    cursor: pointer;
-
-    border-radius: 10px;
-    border: solid 1px #ccc;
-    background-color: hsl(334, 100%, 45%) !important;
-}
-
-#submitBtn:hover {
-    background-color: hsl(0, 0%, 97%) !important;
-    transition: background-color 0.2 ease-in-out;
-}
-
-
-
 
 
 #linkContainer {
     border: 1px solid #ccc;
-    height: fit-content;
+    border-radius: 10px;
+
+    padding: 2%;
+    text-align: center;
+
     width: fit-content;
+    margin: auto;
+    margin-top: 10%;
+}
+
+#linkContainer a {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+
 }
 
 
-
-#finalWordsContainer {
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    grid-column-start: 2;
-    grid-column-end: 5;
-}
-
-#final-words-paragraph {
-    grid-column-start: 2;
-    grid-column-end: 6;
-    text-align: left;
-}
 
 
 
@@ -168,7 +201,6 @@ body {
     width: 100%; /* Adjust as needed */
     height:fit-content;
 
-    margin-top: 5%;
 
      /* Match margin of formInputBoxes */
 
@@ -182,7 +214,7 @@ body {
 #custom-select {
     position: relative;
 
-    background-color: hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 100%);
     border: 1px solid #ccc;
     border-radius: 10px; /* Match border-radius of formInputBoxes */
     cursor: pointer;
@@ -196,7 +228,7 @@ body {
     grid-column-start: 2
 }
 #custom-select:hover {
-    background-color: hsl(0, 0%, 97%);
+    background-color: hsl(0, 0%, 99%);
 }
 
 #selected-option {
@@ -240,7 +272,7 @@ body {
 }
 
 #pregnancy-options-container div:hover {
-    background-color: hsl(0, 0%, 90%);
+    background-color: hsl(0, 0%, 99%);
 }
 
 #pregnancy-select-container {
@@ -263,7 +295,7 @@ body {
 }
 
 #pregnancy-select {
-    background-color: hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 100%);
     border: 1px solid #ccc;
     border-radius: 10px; /* Match border-radius of formInputBoxes */
     cursor: pointer;
@@ -277,7 +309,7 @@ body {
     grid-column-start: 2
 }
 #pregnancy-select:hover {
-    background-color: hsl(0, 0%, 97%);
+    background-color: hsl(0, 0%, 99%);
 }
 
 #selected-pregnancy-option {
@@ -290,9 +322,6 @@ body {
     color: #907979; /* Light grey color */
     width: 100%;
 }
-
-
-
 
 
 

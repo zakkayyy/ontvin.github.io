@@ -47,7 +47,10 @@ Papa.parse("./countries_info.csv", {
         const form = document.querySelector('form');
         const shortResultParagraph = document.getElementById('result');
         const finalWords = document.getElementById("final-words");
+
         //const shortVersion = document.getElementById("short-version");
+
+
 
 
         //detailed.html
@@ -62,6 +65,17 @@ Papa.parse("./countries_info.csv", {
         form.addEventListener('submit', function (event) {
             event.preventDefault();
             console.clear();
+
+            const actualForm = document.getElementById("actualForm");
+            actualForm.style.width="fit-content";
+            actualForm.style.overflow="scroll";
+
+
+            const sideImages = document.getElementById("sideCardLeft");
+            sideImages.style.height="100vh"; 
+
+
+
 
             const countryInput = document.getElementById("selected-option").textContent;
             const lengthOfStay = document.getElementById("lengthOfStay").value;
@@ -484,9 +498,20 @@ function populateShortText (stayDuration, vaccineArray, isPregnant, ageCategory,
             localStorage.setItem("shortTextBuilder", shortTextBuilder);
 
             shortResultParagraph.innerText = shortTextBuilder;
-            shortResultParagraph.style.visibility = "visible"
+            shortResultParagraph.style.visibility = "visible";
+
+
+            const moreInfoLinkContainer = document.createElement("div");
+            moreInfoLinkContainer.id = "linkContainer";
         
+            const linkToMoreInfo = document.createElement("a");
+            linkToMoreInfo.href = "detailed.html";
+            linkToMoreInfo.textContent = "Get more detailed information";
+        
+            moreInfoLinkContainer.appendChild(linkToMoreInfo);
+            shortResultParagraph.appendChild(moreInfoLinkContainer);
         }
     })
+
 
 }
