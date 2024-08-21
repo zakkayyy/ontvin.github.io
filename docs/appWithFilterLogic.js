@@ -66,6 +66,9 @@ Papa.parse("./countries_info.csv", {
             event.preventDefault();
             console.clear();
 
+
+
+
             const actualForm = document.getElementById("actualForm");
             actualForm.style.width="fit-content";
             actualForm.style.overflow="scroll";
@@ -73,6 +76,24 @@ Papa.parse("./countries_info.csv", {
 
             const sideImages = document.getElementById("sideCardLeft");
             sideImages.style.height="100vh"; 
+
+
+            const selectedCountry = document.querySelector('#selected-option').textContent.trim();
+            const selectedPregnancyStatus = document.querySelector('#selected-pregnancy-option').textContent.trim();
+        
+            // Check if a country is selected
+            if (selectedCountry === 'Destination' || selectedCountry === '') {
+                alert('Please select a country.');
+                event.preventDefault(); // Prevent form submission
+                return;
+            }
+        
+            // Check if a pregnancy status is selected (if applicable)
+            if (selectedPregnancyStatus === 'Pregnancy status' || selectedPregnancyStatus === '') {
+                alert('Please select a pregnancy status.');
+                event.preventDefault(); // Prevent form submission
+                return;
+            }
 
 
 
