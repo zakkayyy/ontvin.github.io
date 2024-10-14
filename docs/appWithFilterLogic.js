@@ -71,11 +71,13 @@ Papa.parse("./countries_info.csv", {
 
             const actualForm = document.getElementById("actualForm");
             actualForm.style.width="fit-content";
+
             actualForm.style.overflowY ="scroll";
 
 
-            const sideImages = document.getElementById("sideCardLeft");
-            sideImages.style.height="100vh"; 
+            const resultsDivContainer = document.getElementById("resultsDivContainer");
+            resultsDivContainer.style.display="block";
+
 
 
             const selectedCountry = document.querySelector('#selected-option').textContent.trim();
@@ -524,6 +526,14 @@ function populateShortText (stayDuration, vaccineArray, isPregnant, ageCategory,
 
             const moreInfoLinkContainer = document.createElement("div");
             moreInfoLinkContainer.id = "linkContainer";
+
+
+
+            // come back to this
+            // const printBtn = document.createElement("button");
+            // printBtn.id = "printBtn";
+
+
         
             const linkToMoreInfo = document.createElement("a");
             linkToMoreInfo.href = "detailed.html";

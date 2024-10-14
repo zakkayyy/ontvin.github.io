@@ -83,6 +83,21 @@ body {
     box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
 }
 
+
+
+#resultsDivContainer {
+    display: none;
+    overflow-y: auto;
+
+
+    flex-grow: 1; /* Allow resultsDivContainer to take up remaining space */
+    max-height: calc(100% - 20px); /* Ensure it doesn’t exceed actualForm’s height */
+    margin-top: 20px; /* Adjust spacing between form inputs and results */
+
+}
+
+
+
 #formInputs {
     background-color: white;
     width: 100%;
@@ -92,12 +107,11 @@ body {
     display: flex;
     flex-wrap: wrap;
 
-    margin: 0px;
-    padding: 0px;
+    margin: 0%;
+    padding: 0%;
 
     justify-content: space-between;
 }
-
 
 
 #lengthOfStay, #age {
