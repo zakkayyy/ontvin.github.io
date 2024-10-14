@@ -5,6 +5,13 @@ body {
     margin: 0;
 }
 
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 0.7em;
+    }
+  }
+
+
 #introduction {
     margin: 0.5vw;
     margin-bottom: 0px;
@@ -53,13 +60,13 @@ body {
     margin: auto;
 
     padding: 5%;
-    padding-bottom: 0;
 
     width: 60%;
 }
 
 #actualForm {
-    position: relative;
+    position: static;
+    overflow: hidden;
     background-color: white;
     width: 50%;
     display: flex;
@@ -67,7 +74,7 @@ body {
     flex-wrap: wrap;
 
     padding: 2%;
-    padding-bottom: 0%;
+
 
 
     max-height: 90vh;
@@ -81,6 +88,11 @@ body {
     -webkit-box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
     box-shadow: 10px 10px 35px 0px rgba(0,0,0,0.75);
+}
+
+
+.customContainers > {
+    border-radius: 20px
 }
 
 
