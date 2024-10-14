@@ -71,7 +71,7 @@ Papa.parse("./countries_info.csv", {
 
             const actualForm = document.getElementById("actualForm");
             actualForm.style.width="fit-content";
-            actualForm.style.overflow="scroll";
+            actualForm.style.overflowY ="scroll";
 
 
             const sideImages = document.getElementById("sideCardLeft");

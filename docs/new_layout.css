@@ -67,6 +67,7 @@ body {
     flex-wrap: wrap;
 
     padding: 2%;
+    padding-bottom: 0%;
 
 
     max-height: 90vh;
@@ -85,8 +86,7 @@ body {
 #formInputs {
     background-color: white;
     width: 100%;
-    
-    position: sticky;
+
     top: 0;
 
     display: flex;
