@@ -70,7 +70,14 @@ Papa.parse("./countries_info.csv", {
 
             const actualForm = document.getElementById("actualForm");
             actualForm.style.width="fit-content";
+<<<<<<< HEAD
             actualForm.style.overflowY="scroll";
+=======
+
+            actualForm.style.overflowY ="scroll";
+            actualForm.style.paddingBottom = "0%";
+
+>>>>>>> e40d24fa5ed9fc9337804d2e54abcb9ed277a635
 
             const resultsDivContainer = document.getElementById("resultsDivContainer");
             resultsDivContainer.style.display="block";
