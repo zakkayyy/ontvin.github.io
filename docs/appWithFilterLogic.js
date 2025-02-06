@@ -68,10 +68,9 @@ Papa.parse("./countries_info.csv", {
 
 
 
-
             const actualForm = document.getElementById("actualForm");
             actualForm.style.width="fit-content";
-            actualForm.style.overflow="hidden";
+            actualForm.style.overflowY="scroll";
 
             const resultsDivContainer = document.getElementById("resultsDivContainer");
             resultsDivContainer.style.display="block";
